@@ -1,66 +1,85 @@
-# Jawad Ul Hadi
+<!-- ==========================================================================
+     GitHub Profile README  ·  github.com/JawadulHadi/JawadulHadi
+     Source of truth: Jawad_Ul_Hadi_Resume.docx  ·  Keep title/metrics in sync.
+     Copy repo-banner-dark.png and repo-banner-light.png alongside this file
+     in the JawadulHadi/JawadulHadi repo when publishing.
+========================================================================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://jawadulhadi-portfolio.vercel.app/banners/repo-banner-dark.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://jawadulhadi-portfolio.vercel.app/banners/repo-banner-light.jpg">
-  <img alt="Jawad Ul Hadi — Backend and AI Engineer" src="https://jawadulhadi-portfolio.vercel.app/banners/repo-banner-light.jpg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./repo-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./repo-banner-light.png">
+    <img src="./repo-banner-light.png" alt="Jawad Ul Hadi — Senior Backend Engineer" width="100%" />
+  </picture>
+</p>
 
-**Backend Lead · Senior Backend and AI Engineer** — Islamabad, Pakistan
+<h1 align="center">Jawad Ul Hadi</h1>
+<p align="center"><b>Senior Backend Engineer</b> &nbsp;·&nbsp; NestJS / Node.js &nbsp;·&nbsp; AI/LLM Integration</p>
 
-🌐 Live portfolio: [jawadulhadi-portfolio.vercel.app](https://jawadulhadi-portfolio.vercel.app/) &nbsp;·&nbsp; 📄 [Résumé (PDF)](https://jawadulhadi-portfolio.vercel.app/resume.pdf) &nbsp;·&nbsp; ✉️ [jawadulhadicc@gmail.com](mailto:jawadulhadicc@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/jawad-ul-hadi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawad-ul-hadi">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://jawadulhadi-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0007-1317-4615">ORCID</a> &nbsp;·&nbsp;
+  <a href="mailto:jawadulhadicc@gmail.com">Email</a>
+</p>
+
+<p align="center"><i>Open to remote, hybrid, or relocation (US / EU / APAC overlap) · Full-time or contract</i></p>
 
 ---
 
-I'm a Strategic Backend Lead and Solution Architect with 7+ years of experience engineering scalable, multi-tenant SaaS platforms and integrating production-grade AI solutions. I currently own backend architecture for **Selectmox**, a multi-tenant recruitment platform serving 100+ organizations, with an embedded Google Gemini suite for resume parsing, candidate scoring, and interview-question generation.
+### 👋 About
 
-- 🔭 Building **Selectmox** — 20+ NestJS modules, 150+ REST endpoints, granular RBAC across 100+ tenant organizations
-- 🧠 Architected a unified AI service abstracting OpenAI, Google Gemini, and Anthropic behind one interface with rule-based fallbacks
-- ⚙️ Recent focus: cut per-request database queries by 92.5% and dashboard load times from 8–12s to 1–2s through indexing and caching
-- 🌱 Currently exploring vector databases and LLM observability tooling
+I build backend systems that scale, AI features that ship, and integrations that connect.
+With over 7 years of software engineering experience, my background spans serverless architectures, high-performance databases, and multi-tenant SaaS platforms, with strict per-tenant isolation, asynchronous processing, and AI integrations across multiple agents (OpenAI, Gemini, Anthropic), and deterministic rule-based fallbacks that keep AI features from ever hard-failing.
 
-## Tech Stack
+I don't just build systems — I build capabilities that let businesses grow. Start with the business outcome, end with the technical implementation.
+
+---
+
+### 🛠️ Tech
 
 **Languages & Frameworks**
+`TypeScript` · `Node.js` · `NestJS` · `Python` · `FastAPI` · `Django / DRF` · `JavaScript`
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Data & Search**
+`MongoDB / Mongoose` · `PostgreSQL` · `MySQL` · `Redis` · `MeiliSearch`
 
-**AI & LLM Engineering**
+**AI / LLM**
+`OpenAI SDK` · `Google Gemini` · `Anthropic Claude` · `RAG` · `Structured Output` · `Rule-based Fallbacks`
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-191919?style=flat-square)
+**Async & Infra**
+`BullMQ` · `Redis Queues` · `Webhooks` · `n8n` · `Docker` · `GCP` · `AWS (Lambda, API Gateway)` · `GitHub Actions`
 
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-## Certifications & Badges
-
-**Google Cloud** — Generative AI Fundamentals · [Introduction to Generative AI](https://coursera.org/verify/G3A7L84CRV82) · Cloud Computing Foundations (w/ IBM)
-
-**IBM SkillsBuild** — 9 Credly-issued digital credentials
-
-<table><tr>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/artificial-intelligence-fundamentals.png" width="64" height="64" alt="Artificial Intelligence Fundamentals"><br><sub>AI Fundamentals</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/cloud-computing-fundamentals.png" width="64" height="64" alt="Cloud Computing Fundamentals"><br><sub>Cloud Computing</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/cybersecurity-fundamentals.png" width="64" height="64" alt="Cybersecurity Fundamentals"><br><sub>Cybersecurity</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/data-fundamentals.png" width="64" height="64" alt="Data Fundamentals"><br><sub>Data Fundamentals</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/explore-emerging-tech.png" width="64" height="64" alt="Explore Emerging Tech"><br><sub>Emerging Tech</sub></td>
-</tr><tr>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/information-technology-fundamentals.png" width="64" height="64" alt="Information Technology Fundamentals"><br><sub>IT Fundamentals</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/job-application-essentials.png" width="64" height="64" alt="Job Application Essentials"><br><sub>Job Application</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/web-development-fundamentals.png" width="64" height="64" alt="Web Development Fundamentals"><br><sub>Web Development</sub></td>
-<td align="center"><img src="https://jawadulhadi-portfolio.vercel.app/badges/working-in-a-digital-world-professional-skills.png" width="64" height="64" alt="Working in a Digital World"><br><sub>Digital World</sub></td>
-<td></td>
-</tr></table>
-
-**Other** — ISC2 Certified in Cybersecurity (Candidate) · [Certified Django Developer](https://e-smartdata.org) (e-smartdata.org) · API Gateway Design · SQL Database Administration
-
-16+ professional certifications total
+**Integrations & Security**
+`Stripe` · `Twilio` · `Microsoft Graph` · `Postal SMTP` · `GCS` · `RBAC` · `JWT / OAuth 2.0` · `Tenant Isolation`
 
 ---
 
-📫 **[jawadulhadicc@gmail.com](mailto:jawadulhadicc@gmail.com)** &nbsp;·&nbsp; 💼 [linkedin.com/in/jawad-ul-hadi](https://www.linkedin.com/in/jawad-ul-hadi) &nbsp;·&nbsp; 🌐 [jawadulhadi-portfolio.vercel.app](https://jawadulhadi-portfolio.vercel.app/)
+### 🚀 Featured — the Qeloma suite (personal product studio)
+
+> Seven public builds, all shipped and live — **capability demos**. My enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is shipped and in production behind **private, IP-protected client repos under NDA**. Architecture diagrams, live walkthroughs, and references available on request.
+
+| Project | Capability |
+| --- | --- |
+| [**Qeloma Verdict**](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine — cryptographic audit trails for EU AI Act compliance |
+| [**Qeloma OCR**](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence (Tesseract.js / Gemini vision / hybrid) |
+| [**Qeloma Lens Studio**](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) |
+| [**Qeloma Voice Studio**](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in your own documents (Gemini Live API) |
+| [**Qeloma Shift**](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring |
+| [**Qeloma Cover Studio**](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer, client-side + optional Gemini assist |
+| [**Room Booking**](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management demo — meeting room scheduling and booking |
+
+---
+
+### 📜 Certifications
+
+**Google Cloud** — Generative AI Fundamentals · Cloud Computing Foundations (w/ IBM) &nbsp;|&nbsp; **Certified Django Developer** (e-smartdata.org, 2025) &nbsp;|&nbsp; **IBM SkillsBuild** — AI · Cloud · Data · Cybersecurity Fundamentals
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadulHadi&show_icons=true&hide_border=true&count_private=true" alt="stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadulHadi&layout=compact&hide_border=true&langs_count=8" alt="top langs" height="150" />
+</p>
+
+<p align="center"><sub>📌 Most enterprise work is private under NDA — the public footprint is a capability teaser, not the full story.</sub></p>
