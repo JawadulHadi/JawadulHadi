@@ -115,15 +115,6 @@ I translate business outcomes into technical implementations that drive growth.
 
 ---
 
-## Activity & Contributions
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JawadulHadi&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadulHadi&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages" />
-</div>
-
----
-
 <p align="center">
   <sub>Most enterprise work is maintained under NDA across private repositories. The public portfolio represents capability demonstrations and open-source contributions.</sub>
 </p>
