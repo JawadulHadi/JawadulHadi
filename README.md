@@ -16,11 +16,11 @@
 <p align="center"><strong>Senior Backend Engineer</strong> — NestJS / Node.js — AI/LLM Integration</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jawad-ul-hadi">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/jawad-ul-hadi">LinkedIn</a>
   <span> • </span>
-  <a href="https://jawadulhadi-portfolio.vercel.app/">Portfolio</a> 
+  <a href="https://jawadulhadi-portfolio.vercel.app/">Portfolio</a>
   <span> • </span>
-  <a href="https://orcid.org/0009-0007-1317-4615">ORCID</a> 
+  <a href="https://orcid.org/0009-0007-1317-4615">ORCID</a>
   <span> • </span>
   <a href="mailto:jawadulhadicc@gmail.com">Email</a>
 </p>
@@ -43,7 +43,7 @@ I translate business outcomes into technical implementations that drive growth.
 ### Languages & Frameworks
 
 | Primary | Secondary | Utilities |
-|---------|-----------|-----------|
+| --------- | ----------- | ----------- |
 | TypeScript | Python | JavaScript |
 | Node.js | Django / DRF | FastAPI |
 | NestJS | | |
@@ -51,14 +51,14 @@ I translate business outcomes into technical implementations that drive growth.
 ### Data & Search Solutions
 
 | Relational | NoSQL | Search & Cache |
-|-----------|--------|-----------|
+| ----------- | -------- | ----------- |
 | PostgreSQL | MongoDB / Mongoose | Redis |
 | MySQL | | MeiliSearch |
 
 ### AI & Machine Learning
 
 | Core Platform | Capabilities | Integration |
-|---------------|--------------|-------------|
+| --------------- | -------------- | ------------- |
 | OpenAI SDK | Structured Output | RAG Systems |
 | Google Gemini | Multi-modal Analysis | Rule-based Fallbacks |
 | Anthropic Claude | Document Processing | Vision APIs |
@@ -66,7 +66,7 @@ I translate business outcomes into technical implementations that drive growth.
 ### Infrastructure & DevOps
 
 | Async Processing | Cloud Platforms | Containerization | CI/CD |
-|-----------------|-----------------|-----------------|-------|
+| ----------------- | ----------------- | ----------------- | ------- |
 | BullMQ | Google Cloud Platform | Docker | GitHub Actions |
 | Redis Queues | AWS (Lambda, API Gateway) | | |
 | Webhooks | | | |
@@ -75,7 +75,7 @@ I translate business outcomes into technical implementations that drive growth.
 ### Integrations & Security
 
 | Payments & Communication | Data & Storage | Authentication | Architecture |
-|--------------------------|-----------------|-----------------|--------------|
+| -------------------------- | ----------------- | ----------------- | -------------- |
 | Stripe | GCS | JWT / OAuth 2.0 | RBAC |
 | Twilio | Microsoft Graph | Tenant Isolation | API Design |
 | Postal SMTP | | Session Management | Multi-tenant Systems |
@@ -87,7 +87,7 @@ I translate business outcomes into technical implementations that drive growth.
 **Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
 
 | Project | Capability |
-|---------|-----------|
+| --------- | ----------- |
 | [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance |
 | [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid) |
 | [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) |
@@ -98,20 +98,41 @@ I translate business outcomes into technical implementations that drive growth.
 
 ---
 
-## Professional Certifications
+## 🎓 Professional Certifications & Credentials
 
-**Google Cloud Certifications**
-- Generative AI Fundamentals
-- Cloud Computing Foundations (w/ IBM)
+**26+ Certifications** across cloud platforms, AI/ML, and enterprise systems:
 
-**Developer Certifications**
-- Certified Django Developer (e-smartdata.org, 2025)
+| Provider | Certifications |
+| ---------- | --- |
+| **Google Cloud** | Generative AI Fundamentals, Cloud Computing Foundations |
+| **IBM SkillsBuild** | AI Fundamentals, Cloud Computing, Data Analytics, Cybersecurity Fundamentals, Web Development, IT Fundamentals, Professional Skills |
+| **LinkedIn Learning** | AI Orchestration (LangChain), Chatbot Development with OpenAI, Agentic AI Architecture, Advanced Python, Database Design |
+| **Specialized** | Certified Django Developer (e-smartdata.org, 2025) |
 
-**IBM SkillsBuild Program**
-- AI Fundamentals
-- Cloud Computing
-- Data Analytics
-- Cybersecurity Fundamentals
+➜ **[View Full Certification Gallery & Verification Links](./certifications.md)**
+
+---
+
+## 📋 Disclosure & Compliance
+
+### **GitHub Public Profile Terms**
+
+- This profile accurately reflects professional qualifications, experience, and public contributions
+- Enterprise/client work maintained under NDA in private repositories (available upon request with proper authorization)
+- All certifications verified through official issuing platforms: Google Cloud, IBM, LinkedIn Learning, Coursera, Credly, e-smartdata.org
+- Portfolio projects demonstrate real-world capabilities in backend systems, AI integrations, and full-stack development
+
+### **Data & Privacy**
+
+- No sensitive personal or client information is shared publicly
+- Contact information provided is official professional channels only
+- For opportunities or references: [LinkedIn](https://www.linkedin.com/in/jawad-ul-hadi) or [Email](mailto:jawadulhadicc@gmail.com)
+
+### **Attribution**
+
+- GitHub Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- Banner assets custom-designed and version-controlled
+- Repository maintained in compliance with GitHub Community Guidelines
 
 ---
 
