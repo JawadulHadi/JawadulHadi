@@ -1,7 +1,5 @@
 <!-- ==========================================================================
      GitHub Profile README  ·  github.com/JawadulHadi/JawadulHadi
-     Source of truth: Jawad_Ul_Hadi_Resume.docx  ·  Keep title/metrics in sync.
-     Banner files: ./banners/repo-banner-dark.png and ./banners/repo-banner-light.png
 ========================================================================== -->
 
 <p align="center">
@@ -23,6 +21,27 @@
   <a href="https://orcid.org/0009-0007-1317-4615">ORCID</a>
   <span> • </span>
   <a href="mailto:jawadulhadicc@gmail.com">Email</a>
+  <span> • </span>
+  <a href="https://gravatar.com/juhbukhari">
+    <img src="https://img.shields.io/badge/🌐_Gravatar-Profile-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar" />
+  </a>
+</p>
+
+<!-- Gravatar Badge -->
+<p align="center">
+  <a href="https://gravatar.com/juhbukhari">
+    <img src="https://2.gravatar.com/avatar/ec441841369ef637807363794731d3a8d1c9c7edfd5366e37e1f78d820a083d9?s=120" 
+         alt="Jawad Ul Hadi's Gravatar" 
+         width="80" 
+         style="border-radius: 50%;" />
+  </a>
+  <br />
+  <sub>
+    <a href="https://gravatar.com/juhbukhari">
+      <strong>🔗 Verify my identity on Gravatar</strong>
+    </a>
+    — 9 verified platforms
+  </sub>
 </p>
 
 <p align="center"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
