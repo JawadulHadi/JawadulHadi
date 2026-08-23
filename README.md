@@ -10,39 +10,17 @@
   </picture>
 </p>
 
-<h1 align="center">Jawad Ul Hadi</h1>
-<p align="center"><strong>Senior Backend Engineer</strong> — NestJS / Node.js — AI/LLM Integration</p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jawad-ul-hadi">LinkedIn</a>
-  <span> • </span>
   <a href="https://jawadulhadi-portfolio.vercel.app/">Portfolio</a>
-  <span> • </span>
-  <a href="https://orcid.org/0009-0007-1317-4615">ORCID</a>
   <span> • </span>
   <a href="mailto:jawadulhadicc@gmail.com">Email</a>
   <span> • </span>
   <a href="https://gravatar.com/juhbukhari">
-    <img src="https://img.shields.io/badge/🌐_Gravatar-Profile-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar" />
+    <img src="https://img.shields.io/badge/🌐_Verified_Profile-Gravatar-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar — verified across 9 platforms" />
   </a>
 </p>
 
-<!-- Gravatar Badge -->
-<p align="center">
-  <a href="https://gravatar.com/juhbukhari">
-    <img src="https://2.gravatar.com/avatar/ec441841369ef637807363794731d3a8d1c9c7edfd5366e37e1f78d820a083d9?s=120" 
-         alt="Jawad Ul Hadi's Gravatar" 
-         width="80" 
-         style="border-radius: 50%;" />
-  </a>
-  <br />
-  <sub>
-    <a href="https://gravatar.com/juhbukhari">
-      <strong>🔗 Verify my identity on Gravatar</strong>
-    </a>
-    — 9 verified platforms
-  </sub>
-</p>
+<p align="center"><sub>LinkedIn, GitHub, ORCID and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
 
 <p align="center"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
 <p align="center"><i>Full-time or contract engagements</i></p>
@@ -145,7 +123,7 @@ I translate business outcomes into technical implementations that drive growth.
 
 - No sensitive personal or client information is shared publicly
 - Contact information provided is official professional channels only
-- For opportunities or references: [LinkedIn](https://www.linkedin.com/in/jawad-ul-hadi) or [Email](mailto:jawadulhadicc@gmail.com)
+- For opportunities or references: [Gravatar profile](https://gravatar.com/juhbukhari) or [Email](mailto:jawadulhadicc@gmail.com)
 
 ### **Attribution**
 
