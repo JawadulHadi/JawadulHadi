@@ -11,10 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://jawadulhadi-portfolio.vercel.app/">Portfolio</a>
-  <span> • </span>
-  <a href="mailto:jawadulhadicc@gmail.com">Email</a>
-  <span> • </span>
+  <a href="https://jawadulhadi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/💼_Portfolio-ca8a04?style=flat&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:jawadulhadicc@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-dc2626?style=flat&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923467248414">
+    <img src="https://img.shields.io/badge/💬_WhatsApp-16a34a?style=flat&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://gravatar.com/juhbukhari">
     <img src="https://img.shields.io/badge/🌐_Verified_Profile-Gravatar-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar — verified across 9 platforms" />
   </a>
@@ -97,30 +102,31 @@ I translate business outcomes into technical implementations that drive growth.
 
 **Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
 
-| Project                                                              | Capability                                                                                 |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict)           | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance    |
-| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr)                   | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid)   |
-| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio)   | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) |
-| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in custom document corpus (Gemini Live API)               |
-| [Qeloma Shift](https://github.com/Qeloma/qeloma_shift)               | Semantic change-intelligence engine — meaning-level diffing and materiality scoring        |
-| [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation            |
-| [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app)    | Resource-management platform — meeting room scheduling and booking automation              |
+| Project | Capability |
+| --------- | ----------- |
+| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance |
+| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid) |
+| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) |
+| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in custom document corpus (Gemini Live API) |
+| [Qeloma Shift](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring |
+| [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation |
+| [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management platform — meeting room scheduling and booking automation |
 
 ---
 
 ## 🎓 Professional Certifications & Credentials
 
-**30+ Certifications** across cloud platforms, AI/ML, and enterprise systems:
+**36 Verified Certifications** across cloud platforms, AI/ML, agentic AI tooling, and enterprise systems — synced from LinkedIn's certification export:
 
-| Provider              | Certifications                                                                                                                      |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Google Cloud**      | Generative AI Fundamentals, Cloud Computing Foundations                                                                             |
-| **IBM SkillsBuild**   | AI Fundamentals, Cloud Computing, Data Analytics, Cybersecurity Fundamentals, Web Development, IT Fundamentals, Professional Skills |
-| **LinkedIn Learning** | Agentic AI Architecture, Model Context Protocol (MCP), LLM Orchestration (LangChain/LlamaIndex), Chatbot Development with OpenAI    |
-| **Specialized**       | Certified Django Developer (e-smartdata.org, 2025)                                                                                  |
+| Provider | Certifications |
+| ---------- | --- |
+| **IBM SkillsBuild** (9) | IT Fundamentals, Web Development, AI Fundamentals, Cybersecurity, Data Fundamentals, Emerging Tech, Professional Skills |
+| **LinkedIn Learning** (23) | Agentic AI Architecture, Model Context Protocol (MCP), Agent Skills, Claude Code, LLM Orchestration, Prompt Engineering |
+| **Coursera / Google** (2) | Generative AI Fundamentals, Gen AI: Beyond the Chatbot |
+| **Claude Academy** (1) | Claude 101 — Anthropic |
+| **Specialized** (1) | Certified Django Developer (e-smartdata.org) |
 
-➜ **[View Full Certification Gallery &amp; Verification Links](./certifications.md)**
+➜ **[View Full Certification Gallery & Verification Links](./certifications.md)**
 
 ---
 
