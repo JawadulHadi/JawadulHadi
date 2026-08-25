@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<p align="center"><sub>LinkedIn, GitHub, ORCID and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
+<p align="center"><sub>LinkedIn, GitHub, ORCID, and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
 
 <p align="center"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
 <p align="center"><i>Full-time or contract engagements</i></p>
@@ -34,7 +34,7 @@
 
 ## About
 
-I architect resilient, multi-tenant SaaS platforms where AI works as a reliable value multiplier, not a liability. My signature build is a provider-agnostic LLM engine — OpenAI, Gemini, and Anthropic behind one abstraction — backed by a 3-tier resilience ladder (Retry → RAG → Deterministic) that eliminates user-facing AI failures and cut integration surface area by 60%. On the data side, I've driven 90%+ p95 latency reductions on enterprise-scale HRMS and recruitment workloads.
+I architect resilient, multi-tenant SaaS platforms where AI adds value rather than creating risk. My signature build is a provider-agnostic LLM engine — OpenAI, Gemini, and Anthropic behind one abstraction — backed by a 3-tier resilience ladder (Retry → RAG → Deterministic) that eliminates user-facing AI failures and cuts integration surface area by 60%. On the data side, I've driven 90%+ p95 latency reductions on enterprise-scale HRMS and recruitment workloads.
 
 I translate business outcomes into technical implementations that drive growth.
 
@@ -147,7 +147,7 @@ I translate business outcomes into technical implementations that drive growth.
 
 ### **Attribution**
 
-- GitHub Statistics powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- GitHub Statistics powered by [github-readme-stats]([https://github.com/anuraghazra/github-readme-stats](https://github-stats-extended.vercel.app/api/top-langs?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient))
 - Banner assets custom-designed and version-controlled
 - Repository maintained in compliance with GitHub Community Guidelines
 
