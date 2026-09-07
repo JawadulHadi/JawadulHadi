@@ -1,23 +1,26 @@
+
 # 🎓 Professional Certifications Gallery
 
-**36 Verified Certifications** across cloud platforms, AI/ML, agentic AI tooling, and enterprise systems — synced directly from LinkedIn's certification export.
+**Verified Certifications** across cloud platforms, AI/LLM, agentic AI tooling, and enterprise systems — synced directly from LinkedIn's certification export.
 
 ---
 
-## 📌 Quick Navigation
+## Quick Navigation
 
-| Provider | Count | Focus |
-| ---------- | ------- | ----------- |
-| **IBM SkillsBuild** | 9 | IT, AI, Web Dev, Data, Cybersecurity, Emerging Tech |
-| **LinkedIn Learning** | 23 | Agentic AI, MCP, LLMs, Prompt Engineering, Claude Code |
-| **Coursera** | 1 | Generative AI Fundamentals |
-| **Google** | 1 | Generative AI (Skills Boost) |
-| **Udemy / e-smartdata.org** | 1 | Django Development |
-| **Claude Academy (Anthropic)** | 1 | Claude Fundamentals |
+| Provider                           | Count | Focus                                                  |
+| ---------------------------------- | ----- | ------------------------------------------------------ |
+| **IBM SkillsBuild**          | 9     | IT, AI, Web Dev, Data, Cybersecurity, Emerging Tech    |
+| **LinkedIn Learning**        | 23    | Agentic AI, MCP, LLMs, Prompt Engineering, Claude Code |
+| **Anthropic Claude Academy** | 7     | Claude Fundamentals, Claude Code, AI Fluency           |
+| **Microsoft Learning**       | 4     | AI Concepts, Generative AI, NLP, Speech                |
+| **IBM / Cognitive Class**    | 6     | Big Data, Python, Data Science, Kubernetes, Istio      |
+| **Coursera / Google**        | 2     | Generative AI Fundamentals                             |
+| **Udemy / e-smartdata.org**  | 1     | Django Development                                     |
+| **Gemini Gear**              | 1     | Gemini Enterprise Applications                         |
 
 ---
 
-## 🟦 IBM SkillsBuild Program
+## IBM SkillsBuild Program
 
 ### 1. Information Technology Fundamentals
 
@@ -240,7 +243,7 @@
 - **Credential ID**: 795b0f97dc40ba040309f80025937a970ff3e33eb9183052d362ee7061bab974
 - **Verify**: [View Certificate/Badge](https://www.linkedin.com/learning/certificates/795b0f97dc40ba040309f80025937a970ff3e33eb9183052d362ee7061bab974)
 
-### 32. What Is Microsoft Copilot? An Overview of Microsoft’s AI Tools (2024)
+### 32. What Is Microsoft Copilot? An Overview of Microsoft's AI Tools (2024)
 
 - **Issuer**: LinkedIn Learning
 - **Date**: Aug 2026
@@ -249,7 +252,7 @@
 
 ---
 
-## 🏆 Coursera
+## Coursera
 
 ### 33. Introduction to Generative AI
 
@@ -260,7 +263,7 @@
 
 ---
 
-## 🔵 Google
+## Google
 
 ### 34. Gen AI: Beyond the Chatbot
 
@@ -271,7 +274,7 @@
 
 ---
 
-## 🎯 Specialized Certifications
+## Specialized Certifications
 
 ### 35. Certified Django Developer
 
@@ -282,7 +285,7 @@
 
 ---
 
-## 🤖 Claude Academy (Anthropic)
+## Claude Academy (Anthropic)
 
 ### 36. Claude Academy: Claude 101 Anthropic
 
@@ -291,9 +294,140 @@
 - **Credential ID**: 172ea8fbee8244e56077f6eb5015b998
 - **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/172ea8fbee8244e56077f6eb5015b998)
 
+### 37. Claude Academy: Introduction to Claude Cowork
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: 16e3962cbe28431a9e8bf03e4968ad60
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/16e3962cbe28431a9e8bf03e4968ad60)
+
+### 38. Claude Academy: Claude Code in Action
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: ff1b2c578e9794408a0ba9c5beedc928
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/ff1b2c578e9794408a0ba9c5beedc928)
+
+### 39. Claude Academy: AI Fluency: Framework & Foundations
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: c89048831817ea71a606cafefec2b778
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/c89048831817ea71a606cafefec2b778)
+
+### 40. Claude Academy: Claude Code 101
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: f0b999570f254c062dbba8fb880ab4fe
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/f0b999570f254c062dbba8fb880ab4fe)
+
+### 41. Claude Academy: Claude Platform 101
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: a46195050c356de763f41c151bee30d1
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/a46195050c356de763f41c151bee30d1)
+
+### 42. Claude Academy: AI Capabilities and Limitations
+
+- **Issuer**: Claude Academy, Anthropic
+- **Date**: Aug 2026
+- **Credential ID**: 6599e678fb2dfe18b544458d8581d23c
+- **Verify**: [View Certificate/Badge](https://academy.claude.com/verify/6599e678fb2dfe18b544458d8581d23c)
+
 ---
 
-## 📊 Certification Highlights
+## Gemini Gear
+
+### 43. Create Your First Gemini Enterprise Application
+
+- **Issuer**: Gemini Gear
+- **Date**: Aug 2026
+- **Credential ID**: f158ced5-5067-46a0-9f9c-2479bf31cff6
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/f158ced5-5067-46a0-9f9c-2479bf31cff6/linked_in_profile)
+
+---
+
+## IBM / Cognitive Class
+
+### 44. Big Data Foundations - Level 1
+
+- **Issuer**: IBM
+- **Date**: Aug 2026
+- **Credential ID**: dcfadd4e-959b-4e1d-b17d-b2f9f0467a18
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/dcfadd4e-959b-4e1d-b17d-b2f9f0467a18/linked_in_profile)
+
+### 45. Python for Data Science
+
+- **Issuer**: IBM
+- **Date**: Aug 2026
+- **Credential ID**: 96c841b8-592c-4d0e-9756-ac37bbaa431d
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/96c841b8-592c-4d0e-9756-ac37bbaa431d/linked_in_profile)
+
+### 46. Data Science Foundations - Level 1
+
+- **Issuer**: IBM
+- **Date**: Sep 2026
+- **Credential ID**: c010bf5b-e655-4a5a-b203-25ccf1db87aa
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/c010bf5b-e655-4a5a-b203-25ccf1db87aa/linked_in_profile)
+
+### 47. Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service
+
+- **Issuer**: IBM
+- **Date**: Sep 2026
+- **Credential ID**: ba36cf99-6006-4ad8-a43a-f5a479ae4024
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/ba36cf99-6006-4ad8-a43a-f5a479ae4024)
+
+### 48. Containers & Kubernetes Essentials
+
+- **Issuer**: IBM
+- **Date**: Sep 2026
+- **Credential ID**: 13300660-220e-4a01-ad7e-c4be671babf4
+- **Verify**: [View Certificate/Badge](https://www.credly.com/badges/13300660-220e-4a01-ad7e-c4be671babf4)
+
+### 49. Introduction to Containers, Kubernetes, and OpenShift
+
+- **Issuer**: Cognitive Class
+- **Date**: Sep 2026
+- **Credential ID**: 7e5838e4e64d4f96b129f7a79d5671a9
+- **Verify**: [View Certificate/Badge](https://courses.cognitiveclass.ai/certificates/7e5838e4e64d4f96b129f7a79d5671a9)
+
+---
+
+## Microsoft Learning
+
+### 50. Introduction to AI Concepts
+
+- **Issuer**: Microsoft Learning
+- **Date**: Sep 2026
+- **Credential ID**: JawadUlHadi-0198/WM5FRA6N
+- **Verify**: [View Certificate/Badge](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/WM5FRA6N?sharingId=AFF773B6C8D61F92)
+
+### 51. Introduction to Generative AI and Agents
+
+- **Issuer**: Microsoft Learning
+- **Date**: Sep 2026
+- **Credential ID**: JawadUlHadi-0198/WM5FRA6N
+- **Verify**: [View Certificate/Badge](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/WM5FRA6N?sharingId=AFF773B6C8D61F92)
+
+### 52. Introduction to Natural Language Processing Concepts
+
+- **Issuer**: Microsoft Learning
+- **Date**: Sep 2026
+- **Credential ID**: JawadUlHadi-0198/8VSNEQTW
+- **Verify**: [View Certificate/Badge](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/8VSNEQTW?sharingId=AFF773B6C8D61F92)
+
+### 53. Introduction to AI Speech Concepts
+
+- **Issuer**: Microsoft Learning
+- **Date**: Sep 2026
+- **Credential ID**: JawadUlHadi-0198/NQLXKEEF
+- **Verify**: [View Certificate/Badge](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/NQLXKEEF?sharingId=AFF773B6C8D61F92)
+
+---
+
+## Certification Highlights
 
 ### Technology Coverage
 
@@ -302,6 +436,8 @@
 - ✅ Google Cloud Platform (Generative AI, Skills Boost)
 - ✅ IBM Cloud & Emerging Tech fundamentals
 - ✅ Multi-cloud deployment patterns
+- ✅ Kubernetes, OpenShift, Istio
+- ✅ Containers & Microservices
 
 **AI & Machine Learning**
 
@@ -314,6 +450,7 @@
 - ✅ Responsible AI & AI for senior leadership strategy
 - ✅ Advanced quantization techniques for LLMs
 - ✅ Conversational AI, chatbots & AI agent building (OpenAI, GitHub Copilot, Microsoft Copilot)
+- ✅ AI Fluency & Platform Fundamentals
 
 **Backend Development**
 
@@ -324,24 +461,26 @@
 **Data & Professional Skills**
 
 - ✅ Data fundamentals & analytics
+- ✅ Big Data Foundations
+- ✅ Python for Data Science
 - ✅ Job application & career-skills essentials
 - ✅ Cybersecurity fundamentals
 - ✅ IT & web development fundamentals
 
 ---
 
-## 🔍 Verification & Authenticity
+## Verification & Authenticity
 
 All certifications listed are:
 
-- ✅ **Issued by accredited platforms** (IBM, LinkedIn Learning, Coursera, Google, Anthropic's Claude Academy, e-smartdata.org)
+- ✅ **Issued by accredited platforms** (IBM, LinkedIn Learning, Coursera, Google, Anthropic's Claude Academy, Microsoft, Cognitive Class, Gemini Gear, e-smartdata.org)
 - ✅ **Independently verifiable** via the credential links provided
 - ✅ **Sourced directly from LinkedIn's certification export** — names, dates, and credential IDs are not hand-typed
 - ✅ **Relevant to role** (Backend Engineering, AI/LLM Integration, Agentic AI)
 
 ---
 
-## 📝 Compliance Note
+## Compliance Note
 
 These certifications represent continuous professional development and validation of expertise across:
 
@@ -355,5 +494,7 @@ For employment verification or detailed references, please contact via [Gravatar
 ---
 
 <p align="center">
-  <strong>Last Updated</strong>: August 2026
+  <strong>Last Updated</strong>: September 2026
+  <br>
+  <strong>Total Certifications</strong>: 53
 </p>
