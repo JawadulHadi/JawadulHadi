@@ -87,7 +87,7 @@
 
 ---
 
-## 💼 LinkedIn Learning Certifications
+## LinkedIn Learning Certifications
 
 ### 10. Build AI Agents with GitHub Copilot by Microsoft Press
 
@@ -433,39 +433,39 @@
 
 **Cloud & Infrastructure**
 
-- ✅ Google Cloud Platform (Generative AI, Skills Boost)
-- ✅ IBM Cloud & Emerging Tech fundamentals
-- ✅ Multi-cloud deployment patterns
-- ✅ Kubernetes, OpenShift, Istio
-- ✅ Containers & Microservices
+- (✓) Google Cloud Platform (Generative AI, Skills Boost)
+- (✓) IBM Cloud & Emerging Tech fundamentals
+- (✓) Multi-cloud deployment patterns
+- (✓) Kubernetes, OpenShift, Istio
+- (✓) Containers & Microservices
 
 **AI & Machine Learning**
 
-- ✅ Generative AI fundamentals & neural network foundations
-- ✅ LLM orchestration (LangChain, LlamaIndex)
-- ✅ Prompt engineering & multimodal prompting
-- ✅ Agentic AI architecture & solution design patterns
-- ✅ Model Context Protocol (MCP) & Agent Skills — Anthropic
-- ✅ Claude Code (agentic coding, subagents) & Claude Academy fundamentals
-- ✅ Responsible AI & AI for senior leadership strategy
-- ✅ Advanced quantization techniques for LLMs
-- ✅ Conversational AI, chatbots & AI agent building (OpenAI, GitHub Copilot, Microsoft Copilot)
-- ✅ AI Fluency & Platform Fundamentals
+- (✓) Generative AI fundamentals & neural network foundations
+- (✓) LLM orchestration (LangChain, LlamaIndex)
+- (✓) Prompt engineering & multimodal prompting
+- (✓) Agentic AI architecture & solution design patterns
+- (✓) Model Context Protocol (MCP) & Agent Skills — Anthropic
+- (✓) Claude Code (agentic coding, subagents) & Claude Academy fundamentals
+- (✓) Responsible AI & AI for senior leadership strategy
+- (✓) Advanced quantization techniques for LLMs
+- (✓) Conversational AI, chatbots & AI agent building (OpenAI, GitHub Copilot, Microsoft Copilot)
+- (✓) AI Fluency & Platform Fundamentals
 
 **Backend Development**
 
-- ✅ Django (Certified, e-smartdata.org)
-- ✅ Node.js & API development fundamentals
-- ✅ React.js (standalone project)
+- (✓) Django (Certified, e-smartdata.org)
+- (✓) Node.js & API development fundamentals
+- (✓) React.js (standalone project)
 
 **Data & Professional Skills**
 
-- ✅ Data fundamentals & analytics
-- ✅ Big Data Foundations
-- ✅ Python for Data Science
-- ✅ Job application & career-skills essentials
-- ✅ Cybersecurity fundamentals
-- ✅ IT & web development fundamentals
+- (✓) Data fundamentals & analytics
+- (✓) Big Data Foundations
+- (✓) Python for Data Science
+- (✓) Job application & career-skills essentials
+- (✓) Cybersecurity fundamentals
+- (✓) IT & web development fundamentals
 
 ---
 
@@ -473,10 +473,10 @@
 
 All certifications listed are:
 
-- ✅ **Issued by accredited platforms** (IBM, LinkedIn Learning, Coursera, Google, Anthropic's Claude Academy, Microsoft, Cognitive Class, Gemini Gear, e-smartdata.org)
-- ✅ **Independently verifiable** via the credential links provided
-- ✅ **Sourced directly from LinkedIn's certification export** — names, dates, and credential IDs are not hand-typed
-- ✅ **Relevant to role** (Backend Engineering, AI/LLM Integration, Agentic AI)
+- (✓) **Issued by accredited platforms** (IBM, LinkedIn Learning, Coursera, Google, Anthropic's Claude Academy, Microsoft, Cognitive Class, Gemini Gear, e-smartdata.org)
+- (✓) **Independently verifiable** via the credential links provided
+- (✓) **Sourced directly from LinkedIn's certification export** — names, dates, and credential IDs are not hand-typed
+- (✓) **Relevant to role** (Backend Engineering, AI/LLM Integration, Agentic AI)
 
 ---
 
