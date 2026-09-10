@@ -8,7 +8,7 @@
 
 ---
 
-## Senior Backend Engineer | AI/LLM Systems Architect
+## **Backend Lead / Architect - AI-First Systems Design**
 
 Backend Lead with **7+ years** architecting scalable, multi-tenant SaaS platforms and AI-powered enterprise systems. Specialized in provider-agnostic LLM integration, production resilience patterns, and high-performance distributed systems.
 
