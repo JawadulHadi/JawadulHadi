@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
-    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi" width="100%" />
+    <img src="./banners/repo-banner-light.png" alt="Professional banner for Jawad Ul Hadi, Backend Lead and Architect with 7+ years of experience in scalable SaaS platforms and AI systems, based in Islamabad Pakistan" width="100%" />
   </picture>
 </p>
 
