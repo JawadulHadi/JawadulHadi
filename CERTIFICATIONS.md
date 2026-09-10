@@ -1,4 +1,3 @@
-
 # 🎓 Professional Certifications Gallery
 
 **Verified Certifications** across cloud platforms, AI/LLM, agentic AI tooling, and enterprise systems — synced directly from LinkedIn's certification export.
@@ -7,8 +6,8 @@
 
 ## Quick Navigation
 
-| Provider                           | Count | Focus                                                  |
-| ---------------------------------- | ----- | ------------------------------------------------------ |
+| Provider                     | Count | Focus                                                  |
+| ---------------------------- | ----- | ------------------------------------------------------ |
 | **IBM SkillsBuild**          | 9     | IT, AI, Web Dev, Data, Cybersecurity, Emerging Tech    |
 | **LinkedIn Learning**        | 23    | Agentic AI, MCP, LLMs, Prompt Engineering, Claude Code |
 | **Anthropic Claude Academy** | 7     | Claude Fundamentals, Claude Code, AI Fluency           |
