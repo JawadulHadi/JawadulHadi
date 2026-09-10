@@ -1,185 +1,28 @@
-<!-- ==========================================================================
-     GitHub Profile README  ·  github.com/JawadulHadi/JawadulHadi
-========================================================================== -->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
-    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi — AI & SaaS Architect" width="100%" />
+    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi" width="100%" />
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://jawadulhadi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/💼_Portfolio-ca8a04?style=flat&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jawadulhadicc@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-dc2626?style=flat&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/923467248414">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-16a34a?style=flat&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://gravatar.com/juhbukhari">
-    <img src="https://img.shields.io/badge/🌐_Verified_Profile-Gravatar-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar — verified across 9 platforms" />
-  </a>
-</p>
+Backend Lead / Architect, AI-first systems. 7+ years designing multi-tenant SaaS and AI-powered enterprise systems — provider-agnostic LLM integration (OpenAI, Gemini, Anthropic) with a three-tier resilience pattern (Retry → RAG Fallback → Rule-Based Floor).
 
-<p align="center"><sub>LinkedIn, GitHub, ORCID, and other accounts are verified on the <a href="https://gravatar.com/juhbukhari">Gravatar profile</a> above.</sub></p>
+**Currently:** Backend Lead / Senior Software Engineer at MicroAgility Services, Jan 2024 – present.
 
-<p align="center"><i>Open to remote, hybrid, or relocation — US / EU / APAC overlap</i></p>
-<p align="center"><i>Full-time or contract engagements</i></p>
+## Pinned work
 
----
+- [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) — decision engine with cryptographic audit trails
+- [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) — client-side OCR, Tesseract.js / Gemini Vision hybrid
+- [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) — document analysis over Gemini + rule-based fallbacks
+- [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) — real-time voice analyst on Gemini Live
 
-## About Me
+Most client/enterprise work lives in private NDA'd repos — the above are the public capability demos.
 
-I architect resilient, multi-tenant SaaS platforms where AI adds value rather than creating risk.
+## Stack
 
-**My signature build** is a provider-agnostic LLM engine — OpenAI, Gemini, and Anthropic behind one abstraction — backed by a **3-tier resilience ladder** (Retry → RAG → Deterministic) that eliminates user-facing AI failures and cuts integration surface area by **60%**.
+Node.js · NestJS · TypeScript · Python · FastAPI · PostgreSQL · MongoDB · Redis · GraphQL · AWS · GCP · Docker · Kubernetes · OpenAI / Gemini / Anthropic APIs
 
-On the data side, I've driven **90%+ p95 latency reductions** on enterprise-scale HRMS and recruitment workloads.
+## Elsewhere
 
-I translate business outcomes into technical implementations that drive growth.
-
----
-
-## 🛠️ Technology Stack
-
-### Backend & Languages
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### AI & LLM Engineering
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-2D2D2D?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4B5563?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B5563?style=flat-square)
-![3-Tier Fallback](https://img.shields.io/badge/3--Tier_Fallback-B9843F?style=flat-square)
-
-### Data & Search
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
-
-### Infrastructure & DevOps
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-### Integrations & Security
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![JWT / OAuth 2.0](https://img.shields.io/badge/JWT_%2F_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### AI-Assisted Development
-
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## Skills Matrix
-
-| Domain | Technologies | Proficiency |
-| -------- | -------------- | ------------- |
-| **Backend Architecture** | Node.js, NestJS, TypeScript, Python, FastAPI, Django, PHP, Laravel | ⭐⭐⭐⭐⭐ |
-| **AI/LLM Engineering** | OpenAI, Gemini, Anthropic, LangChain, MCP, RAG, Agentic AI | ⭐⭐⭐⭐⭐ |
-| **Cloud & DevOps** | AWS Lambda, GCP, Docker, Kubernetes, GitHub Actions, CI/CD | ⭐⭐⭐⭐ |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, MeiliSearch | ⭐⭐⭐⭐⭐ |
-| **Security** | OAuth 2.0, JWT, Tenant Isolation, Secure API Design | ⭐⭐⭐⭐⭐ |
-| **API Design** | REST, GraphQL, Webhooks, Microservices | ⭐⭐⭐⭐⭐ |
-
----
-
-## Featured Projects
-
-**Qeloma Suite** — Seven production-grade capability demos showcasing enterprise AI integrations. Enterprise work (Talentnix ATS, APAC HRMS, iAgility, AgileiBrains) is in private, IP-protected repos under NDA. Architecture diagrams, live walkthroughs, and references available upon request.
-
-| Project | Capability | Tech Stack |
-| --------- | ------------ | ------------ |
-| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Tamper-evident decision engine with cryptographic audit trails for EU AI Act compliance | NestJS, PostgreSQL, OpenAI |
-| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with per-word confidence scoring (Tesseract.js / Gemini Vision / hybrid) | React, Tesseract.js, Gemini Vision |
-| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | AI-powered document analysis — summarize, extract, compare (Gemini + rule-based fallbacks) | NestJS, Gemini, TypeScript |
-| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analyst grounded in custom document corpus (Gemini Live API) | WebRTC, Gemini Live, Node.js |
-| [Qeloma Shift](https://github.com/Qeloma/qeloma_shift) | Semantic change-intelligence engine — meaning-level diffing and materiality scoring | LangChain, PostgreSQL, OpenAI |
-| [Qeloma Cover Studio](https://github.com/Qeloma/qeloma-cover-studio) | Browser-based LinkedIn banner designer with optional Gemini-assisted generation | React, Gemini, Canvas API |
-| [Room Booking](https://github.com/Qeloma/qeloma_room_booking_app) | Resource-management platform — meeting room scheduling and booking automation | NestJS, PostgreSQL, React |
-
----
-
-## Professional Certifications
-
-### 53 Verified Certifications Across Leading Platforms
-
-| Provider | Count | Focus Areas |
-| ---------- | ------- | ------------- |
-| **IBM SkillsBuild** | 9 | IT, Web Dev, AI, Cloud, Cybersecurity, Data, Emerging Tech, Professional Skills |
-| **LinkedIn Learning** | 23 | Agentic AI, MCP, LLMs, Prompt Engineering, Claude Code, AI Architecture |
-| **Anthropic Claude Academy** | 7 | Claude 101, Claude Code, AI Fluency, Platform Fundamentals |
-| **Microsoft Learning** | 4 | AI Concepts, Generative AI, NLP, Speech Concepts |
-| **IBM / Cognitive Class** | 6 | Big Data, Python, Data Science, Kubernetes, OpenShift, Istio |
-| **Coursera / Google** | 2 | Generative AI Fundamentals, Gen AI: Beyond the Chatbot |
-| **Udemy / e-smartdata.org** | 1 | Certified Django Developer |
-| **Gemini Gear** | 1 | Gemini Enterprise Applications |
-
-➜ **[View Full Certification Gallery & Verification Links](./certifications.md)**
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient" alt="Top Languages" width="400" />
-</p>
-
----
-
-## Disclosure & Compliance
-
-### GitHub Public Profile Terms
-
-- This profile accurately reflects professional qualifications, experience, and public contributions
-- Enterprise/client work maintained under NDA in private repositories (available upon request with proper authorisation)
-- All certifications verified through official issuing platforms: Google Cloud, IBM, LinkedIn Learning, Coursera, Credly, Anthropic, Microsoft
-- Portfolio projects demonstrate real-world capabilities in backend systems, AI integrations, and full-stack development
-
-### Data & Privacy
-
-- No sensitive personal or client information is shared publicly
-- Contact information provided is through official professional channels only
-- For opportunities or references: [Gravatar profile](https://gravatar.com/juhbukhari) or [Email](mailto:jawadulhadicc@gmail.com)
-
-### Attribution
-
-- GitHub Statistics powered by [github-readme-stats](https://github-stats-extended.vercel.app/api/top-langs/?username=JawadulHadi&layout=pie&hide_title=true&langs_count=8&theme=ambient_gradient)
-- Banner assets custom-designed and version-controlled
-- Repository maintained in compliance with GitHub Community Guidelines
-
----
-
-<p align="center">
-  <sub>Most enterprise work is maintained under NDA across private repositories. The public portfolio represents capability demonstrations and open-source contributions.</sub>
-</p>
+[Portfolio](https://jawadulhadi-portfolio.vercel.app/) · [Email](mailto:jawadulhadicc@gmail.com) · [Certifications](./CERTIFICATIONS.md) · [More about me](./PROFILE.md)
