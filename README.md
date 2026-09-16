@@ -1,8 +1,8 @@
-## Backend Lead | Systems Architect
+## Backend Lead | Software Engineer
 
 I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. My work focuses on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
 
-**Currently:** Backend Lead / Senior Software Engineer at MicroAgility Services · Feb 2022 – Present
+**Currently:** Backend Lead / Software Engineer at MicroAgility Services · Feb 2022 – Present
 
 ---
 
