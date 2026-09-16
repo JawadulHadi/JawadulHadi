@@ -2,28 +2,56 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
-    <img src="./banners/repo-banner-light.png" alt="Professional banner for Jawad Ul Hadi, Backend Lead and Architect with 7+ years of experience in scalable SaaS platforms and AI systems" />
+    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi — Backend Lead and Systems Architect focused on scalable infrastructure, AI integration, and production reliability" />
   </picture>
 </p>
 
 ---
 
-## **Backend Lead / Architect - AI-First Systems Design**
+## Backend Lead | Systems Architect
 
-Backend Lead with **7+ years** architecting scalable, multi-tenant SaaS platforms and AI-powered enterprise systems. Specialized in provider-agnostic LLM integration, production resilience patterns, and high-performance distributed systems.
+I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. My work focuses on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
 
-**Currently:** Backend Lead / Senior Software Engineer at MicroAgility Services · Jan 2024 – present
+**Currently:** Backend Lead / Senior Software Engineer at MicroAgility Services · Feb 2022 – Present
+
+---
+
+## Architectural Focus
+
+- Service decomposition and domain boundaries
+- Multi-tenant system design and isolation
+- Event-driven and asynchronous processing
+- REST and GraphQL API design
+- LLM orchestration and provider abstraction
+- Retrieval-augmented workflows
+- Failure handling and fallback strategies
+- Schema design and data access optimization
+- Latency reduction and throughput tuning
+- Secure authentication and authorization
+- Engineering standards and technical mentorship
+
+---
+
+## Selected Impact
+
+- Built a provider-agnostic AI integration layer for OpenAI, Gemini, and Anthropic
+- Designed a three-stage recovery model: retry, retrieval fallback, and rule-based output
+- Reduced dashboard response time from 12 seconds to under 2 seconds through database and search optimization
+- Supported heavy asynchronous workloads with BullMQ and Redis
+- Delivered secure tenant-aware APIs with OAuth 2.0, JWT, and RBAC
+- Executed zero-downtime database migrations on live production systems
+- Led architecture reviews and code analysis for backend teams
 
 ---
 
 ## Core Competencies
 
-| Category | Specialization |
-|----------|-----------------|
-| **Architecture** | Microservices, Event-Driven Systems, Multi-Tenant SaaS, Distributed Tracing |
-| **AI/LLM** | Provider-Agnostic Integration, RAG Pipelines, Agentic AI, Structured Output |
-| **Reliability** | Zero-Downtime Migrations, Three-Tier Fallback Patterns, 99.9% Uptime |
-| **Performance** | Query Optimization, Indexing Strategy, Sub-Second API Response Times |
+| Area | Capability |
+|------|------------|
+| **Backend Architecture** | Microservices, domain-driven boundaries, API contracts, event workflows |
+| **AI Systems** | Model abstraction, RAG pipelines, structured generation, agent patterns |
+| **Reliability Engineering** | Retry logic, fallback design, safe migrations, operational resilience |
+| **Performance Engineering** | Indexing, query tuning, caching, queue processing, response-time reduction |
 
 ---
 
@@ -39,7 +67,7 @@ Backend Lead with **7+ years** architecting scalable, multi-tenant SaaS platform
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### AI & LLM Engineering
+### AI / LLM Engineering
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -49,14 +77,14 @@ Backend Lead with **7+ years** architecting scalable, multi-tenant SaaS platform
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B5563?style=flat-square)
 ![Structured Output](https://img.shields.io/badge/Structured_Output-4B5563?style=flat-square)
 
-### Data & Database
+### Data & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
 
-### Infrastructure & DevOps
+### Infrastructure & Operations
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -72,73 +100,25 @@ Backend Lead with **7+ years** architecting scalable, multi-tenant SaaS platform
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Development Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
 ---
 
-## Professional Experience
-
-### Backend Lead / Senior Software Engineer
-**MicroAgility Services (Pvt) Ltd.** · Jan 2024 – Aug 2026
-
-**AI Integration & Resilience**
-- Architected provider-agnostic microservices layer unifying OpenAI, Gemini, and Anthropic — reducing AI integration complexity by 60%
-- Designed three-tier resilience pattern (Retry → RAG Fallback → Rule-Based Floor) eliminating user-facing failures across all production incidents
-- Built internal ATS platform using Claude Code and Gemini 2.5 Flash with full architectural ownership
-
-**Performance & Scalability**
-- Reduced dashboard response times from 12s to under 2s (83% improvement) through PostgreSQL/MongoDB optimization and MeiliSearch rollout
-- Achieved sub-second API response times under thousands of concurrent async jobs using BullMQ and Redis
-- Architected event-driven processing architecture for production-grade async workloads
-
-**Security & Multi-Tenancy**
-- Zero cross-tenant data exposure incidents across platform lifetime via enforced OAuth 2.0/JWT isolation
-- Architected REST/GraphQL APIs with granular RBAC and tenant isolation patterns
-- Delivered complete timesheet module with full Jest unit-test coverage
-
-**Leadership**
-- Mentored backend engineers through architecture review and code analysis for both AI-assisted and hand-written code
-- Established engineering standards and best practices across the backend team
-
-### Backend Software Engineer
-**MicroAgility Services (Pvt) Ltd.** · Feb 2022 – Jan 2024
-
-- Maintained 99.9% uptime executing zero-downtime schema migrations on live multi-tenant production databases
-- Improved data retrieval speed by 40% refactoring REST/GraphQL services for thousands of cross-tenant users
-- Automated tenant deployment/migration pipelines reducing manual onboarding effort by 70%
-
-### Software Engineer
-**Market Icon** · Jan 2018 – Mar 2022
-
-- Designed serverless AWS Lambda/API Gateway systems eliminating idle infrastructure costs
-- Built production APIs using Express.js, FastAPI, and Django REST Framework for CRM and payment integrations
-
----
-
-## Pinned Public Projects
+## Selected Projects
 
 | Project | Description |
 |---------|-------------|
-| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Decision engine with cryptographic audit trails for compliance |
-| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Hybrid client-side OCR combining Tesseract.js and Gemini Vision |
-| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | Document analysis engine leveraging Gemini + rule-based fallbacks |
+| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Decision engine with cryptographic audit trails |
+| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with Gemini Vision integration |
+| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | Document analysis system with fallback workflows |
 | [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analysis using Gemini Live API |
 
-*Most enterprise work resides in private NDA'd repositories — public projects above demonstrate core capabilities.*
+*Most enterprise systems are private and NDA-bound. These public projects reflect my architecture style, implementation standards, and product focus.*
 
 ---
 
-## Publications & Case Studies
+## Writing & Case Study
 
-### "Designing for AI Failure"
-Technical case study on production resilience architecture for NestJS systems, featuring:
-- Retrieval-grounded three-tier fallback patterns
-- System diagrams and architectural trade-offs
-- Reversible vector-store fallback mechanisms
+### Designing for AI Failure
+A technical case study on production resilience patterns for NestJS-based systems.
 
 [Read Full Study](https://jawadulhadi-portfolio.vercel.app/)
 
@@ -148,13 +128,13 @@ Technical case study on production resilience architecture for NestJS systems, f
 
 **B.S. Computer Science** — Government College University, Faisalabad (2017)
 
-**Certifications:** IBM, Microsoft, Google, Anthropic, Coursera/LinkedIn Learning covering AI/LLM, cloud infrastructure, and backend engineering.
+**Certifications:** IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
 
 [Full Certification List](./CERTIFICATIONS.md)
 
 ---
 
-## Connect
+## Contact
 
 | Channel | Link |
 |---------|------|
@@ -166,5 +146,5 @@ Technical case study on production resilience architecture for NestJS systems, f
 ---
 
 <p align="center">
-  <sub>Built with expertise. Designed for scale. Optimized for performance.</sub>
+  <sub>Backend architecture, AI integration, and production reliability.</sub>
 </p>
