@@ -1,13 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
-    <img src="./banners/repo-banner-light.png" alt="Jawad Ul Hadi — Backend Lead and Systems Architect focused on scalable infrastructure, AI integration, and production reliability" />
-  </picture>
-</p>
-
----
-
 ## Backend Lead | Systems Architect
 
 I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. My work focuses on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
@@ -25,9 +15,9 @@ I design and deliver backend platforms for multi-tenant SaaS, AI-enabled product
 - LLM orchestration and provider abstraction
 - Retrieval-augmented workflows
 - Failure handling and fallback strategies
-- Schema design and data access optimization
+- Schema design and data access optimisation
 - Latency reduction and throughput tuning
-- Secure authentication and authorization
+- Secure authentication and authorisation
 - Engineering standards and technical mentorship
 
 ---
@@ -36,7 +26,7 @@ I design and deliver backend platforms for multi-tenant SaaS, AI-enabled product
 
 - Built a provider-agnostic AI integration layer for OpenAI, Gemini, and Anthropic
 - Designed a three-stage recovery model: retry, retrieval fallback, and rule-based output
-- Reduced dashboard response time from 12 seconds to under 2 seconds through database and search optimization
+- Reduced dashboard response time from 12 seconds to under 2 seconds through database and search optimisation
 - Supported heavy asynchronous workloads with BullMQ and Redis
 - Delivered secure tenant-aware APIs with OAuth 2.0, JWT, and RBAC
 - Executed zero-downtime database migrations on live production systems
