@@ -1,4 +1,4 @@
-# 🎓 Professional Certifications Gallery
+#  **Professional Certifications**
 
 **Verified Certifications** across cloud platforms, AI/LLM, agentic AI tooling, and enterprise systems — synced directly from LinkedIn's certification export.
 
@@ -273,7 +273,7 @@
 
 ---
 
-## Specialized Certifications
+## Specialised Certifications
 
 ### 35. Certified Django Developer
 
