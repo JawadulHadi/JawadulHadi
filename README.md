@@ -1,8 +1,8 @@
 ## Backend Lead | Software Engineer
 
-I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. My work focuses on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
+I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. I focus on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
 
-**Currently:** Backend Lead / Software Engineer at MicroAgility Services · Feb 2022 – Present
+**Currently:** Backend Lead / Software Engineer at MicroAgility Services · Mar 2022 – Present
 
 ---
 
@@ -116,7 +116,7 @@ A technical case study on production resilience patterns for NestJS-based system
 
 ## Education & Certifications
 
-**B.S. Computer Science** — Government College University, Faisalabad (2017)
+**B.S. Computer Science** — Government College University, Faisalabad (2018)
 
 **Certifications:** IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
 
