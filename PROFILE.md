@@ -1,136 +1,108 @@
+<h1 align="center"><strong>Jawad Ul Hadi</strong></h1>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banners/repo-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./banners/repo-banner-light.png">
-    <img src="./banners/repo-banner-light.png" alt="Professional banner for Jawad Ul Hadi, Backend Lead and Architect with 7+ years of experience in scalable SaaS platforms and AI systems, based in Islamabad Pakistan" width="100%" />
-  </picture>
+  Backend Lead / Architect · AI-first systems design<br/>
+  Islamabad · Open to relocation
 </p>
 
-## ⬅ [Back to README](./README.md) · [Certifications](./CERTIFICATIONS.md)
-
-## About
-
-Backend Lead / Architect with 7+ years designing and owning scalable, multi-tenant SaaS platforms and AI-powered enterprise systems — architecture, data model, and reliability strategy included. Based in Islamabad, Pakistan; schedule aligned to EST/PST hours.
-
-Operates AI-first: Claude Code and GitHub Copilot for scaffolding and implementation, Gemini 2.5 Flash for parsing and conversational features, Jest for test coverage — while holding full ownership of correctness, security, and system design.
-
-Author of "Designing for AI Failure," a technical case study on production resilience architecture (three-tier fallback: Retry → RAG Fallback → Rule-Based Floor).
-
-> B.S. Computer Science, Government College University, Faisalabad, 2017.
-
----
-
-## Technology Stack
-
-**Backend & Languages**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**AI & LLM Engineering**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-2D2D2D?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4B5563?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B5563?style=flat-square)
-![Structured Output](https://img.shields.io/badge/Structured_Output-4B5563?style=flat-square)
-![3-Tier Fallback](https://img.shields.io/badge/3--Tier_Fallback-B9843F?style=flat-square)
-
-**Data & Search**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Integrations & Security**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![JWT / OAuth 2.0](https://img.shields.io/badge/JWT_%2F_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Tenant Isolation](https://img.shields.io/badge/RBAC_%2F_Tenant_Isolation-4B5563?style=flat-square)
-
-**AI-Assisted Development**
-
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## Experience
-
-**Backend Lead / Senior Software Engineer** — MicroAgility Services (Pvt) Ltd. · Jan 2024 – Aug 2026
-
-- Cut AI integration complexity by 60% and eliminated user-facing failures during provider outages: architected a provider-agnostic microservices layer unifying OpenAI, Gemini, and Anthropic behind a single abstraction with automatic failover.
-- Zero user-facing AI failures across all production incidents: designed a three-tier resilience pattern (Retry → RAG Fallback → Rule-Based Floor), now the team's standard failure-handling architecture.
-- Cut dashboard response times from 12s to under 2s (83%): owned PostgreSQL/MongoDB query optimization, indexing strategy, and MeiliSearch rollout.
-- Sub-second API response times under thousands of concurrent async jobs: designed an event-driven processing architecture on BullMQ and Redis.
-- Zero cross-tenant data exposure incidents across the platform's lifetime: architected REST/GraphQL APIs on OAuth 2.0/JWT with enforced tenant isolation.
-- Built an internal ATS platform using Claude Code for scaffolding/implementation and Gemini 2.5 Flash for document parsing and the conversational assistant, retaining full ownership of architecture and review.
-- Delivered a complete timesheet module end-to-end with full Jest unit-test coverage at handoff.
-- Mentored backend engineers through architecture and code review, covering both AI-assisted and hand-written code.
-
-**Backend Software Engineer** — MicroAgility Services (Pvt) Ltd. · Feb 2022 – Jan 2024
-
-- Maintained 99.9% uptime through zero-downtime schema migrations against live multi-tenant production databases.
-- Improved data retrieval speed by ~40% refactoring REST/GraphQL services for thousands of users across multiple tenants.
-- Automated tenant deployment/migration pipelines, cutting manual onboarding effort for new enterprise tenants.
-
-**Software Engineer** — Market Icon · Jan 2018 – Mar 2022
-
-- Designed serverless AWS Lambda/API Gateway systems, eliminating idle infrastructure cost.
-- Built APIs across Express.js, FastAPI, and Django REST Framework for CRM and payment integrations.
-
----
-
-## Writing
-
-### [&#34;Designing for AI Failure&#34;](https://jawadulhadi-portfolio.vercel.app/)
-
-**Case study on a retrieval-grounded, three-tier fallback architecture (Retry → RAG Fallback → Rule-Based Floor) for production NestJS systems, with system diagrams and a reversible vector-store ADR.**
-
----
-
-## Certifications
-
-**Certifications across IBM, Microsoft, Google, Anthropic, and Coursera/LinkedIn Learning — AI/LLM, cloud, and backend engineering. [Full list with links](./CERTIFICATIONS.md).**
-
----
-
-## Contact
-
-<p align="left">
-  <a href="https://jawadulhadi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/💼_Portfolio-ca8a04?style=flat&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jawadulhadicc@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-dc2626?style=flat&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/923467248414">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-16a34a?style=flat&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://gravatar.com/juhbukhari">
-    <img src="https://img.shields.io/badge/🌐_Verified_Profile-Gravatar-ffae00?style=flat&logo=gravatar&logoColor=white" alt="Gravatar" />
-  </a>
+<p align="center">
+  <a href="https://gravatar.com/juhbukhari">Let's Connect</a>
 </p>
+
+---
+
+Seven years building multi-tenant SaaS backends in **NestJS, TypeScript and PostgreSQL**. I design AI features to fail predictably: a three-tier fallback of retry, retrieval and a rule-based floor keeps them working through provider outages.
+
+|              7+              |              12s → 2s               |                     0                      |                    99.9%                    |
+| :--------------------------: | :---------------------------------: | :----------------------------------------: | :-----------------------------------------: |
+| years on production backends | dashboard response time, an 83% cut | user-facing AI failures during LLM outages | uptime through live multi-tenant migrations |
+
+## 01 · Selected work
+
+> Client systems are under NDA. Architecture is described without business data or endpoints.
+
+### Featured · Designing for AI failure
+
+One abstraction sits in front of OpenAI, Gemini and Anthropic. When a provider degrades, requests step down through three tiers instead of surfacing an error. It became the team's standard failure-handling architecture and cut AI integration complexity by 60%.
+
+```mermaid
+flowchart LR
+  R[Request] --> G[Provider gateway<br/>OpenAI · Gemini · Anthropic]
+  G --> T1[Tier 1 · Retry & failover<br/>Backoff, then the next provider]
+  T1 --> T2[Tier 2 · RAG fallback<br/>Answer from retrieved context]
+  T2 --> T3[Tier 3 · Rule-based floor<br/>Deterministic, never hard-fails]
+```
+
+[Read the full case study →](https://juh-bukhari.vercel.app/case-study)
+
+| Role                     | System                               | Stack                                                          |
+| ------------------------ | ------------------------------------ | -------------------------------------------------------------- |
+| Backend Lead & Architect | Multi-tenant AI recruitment ATS      | NestJS · MongoDB · Gemini · MeiliSearch · BullMQ · Postal SMTP |
+| Backend Engineer         | APAC HRMS & payroll core             | NestJS · MySQL · PostgreSQL · GCS                              |
+| Backend Engineer         | Enterprise agile collaboration suite | NestJS · GraphQL · WebSocket · PostgreSQL · Docker             |
+| Software Engineer        | Serverless gateway & CRM layer       | AWS Lambda · API Gateway · FastAPI · Django REST               |
+
+## 02 · Projects & open source
+
+Personal builds, public and verifiable.
+
+**Flagship · Chrome extension pack** — Ten Manifest V3 extensions for developer and AI workflows: context extraction for agents, an API interceptor and mock sandbox, a schema and JWT decoder, a prompt workbench with diffing, token and cost estimates, a document scraper, a cross-LLM model switcher, a webhook relay, session isolation and a browser workflow recorder.
+`Chrome Extension API · TypeScript · Gemini API · WebSockets · IndexedDB`
+
+**Infrastructure · Idempotent queue spine** — A BullMQ and Redis backbone for OCR extraction, batch email and multi-tenant webhook dispatch, with HMAC signature verification, dead-letter queues and exactly-once processing.
+`BullMQ · Redis · NestJS · HMAC`
+
+### The Qeloma suite
+
+| Project             | What it does                                                                                                                       | Link                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Verdict             | Tamper-evident decision engine that issues reasoning receipts with cryptographic audit trails, built for EU AI Act record-keeping. | [Source ↗](https://github.com/Qeloma/qeloma-verdict)          |
+| OCR                 | Client-side OCR with per-word confidence scores from Tesseract.js, Gemini vision or a hybrid of both.                              | [Source ↗](https://github.com/Qeloma/qeloma-ocr)              |
+| Lens Studio         | Summarise, extract and compare across PDFs, DOCX and images, powered by Gemini with rule-based fallbacks.                          | [Live ↗](https://qelomalens.vercel.app/)                      |
+| Voice Studio        | Real-time voice analyst that answers from your own documents through the Gemini Live API.                                          | [Live ↗](https://qeloma-voice.vercel.app/)                    |
+| Shift               | Semantic diffing for contracts and configs that ranks changes by severity and explains business impact.                            | [Live ↗](https://qeloma-shift.vercel.app/)                    |
+| Cover Studio        | Browser-based LinkedIn banner studio that composes on-brand vector cover art from a short prompt.                                  | [Source ↗](https://github.com/Qeloma/qeloma-cover-studio)     |
+| Room Booking Engine | Scheduling backplane that resolves overlapping booking requests with conflict-safe reservation locking.                            | [Source ↗](https://github.com/Qeloma/qeloma_room_booking_app) |
+
+### Contribution activity
+
+Charts are generated from real public GitHub data. Nothing is backfilled.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JawadulHadi&bg_color=00000000&color=8b949e&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Jawad Ul Hadi's public GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JawadulHadi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=JawadulHadi&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
+
+## 03 · Stack & credentials
+
+| Area         | Tools                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------- |
+| Architecture | Multi-tenant SaaS, microservices, event-driven design, GraphQL API design, reliability trade-offs |
+| Backend      | Node.js, NestJS, TypeScript, Python, FastAPI, PostgreSQL, MongoDB, MySQL, Redis                   |
+| AI systems   | RAG pipelines, MCP servers, OpenAI, Gemini and Anthropic integration, Claude Code, Copilot        |
+| Delivery     | GitHub Actions, Jest, OAuth 2.0 / JWT, AWS, GCP, Docker, Kubernetes                               |
+
+**Education** — B.S. Computer Science, Government College University, Faisalabad, 2018
+
+**Certifications** — Verified certifications across Anthropic, IBM, Microsoft, Google and LinkedIn Learning. Each links to the issuer's verification page: [CERTIFICATIONS.md](./CERTIFICATIONS.md)
+
+## 04 · Services & Connect
+
+|     | Service                  | Scope                                                                                                      |
+| --- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| 01  | Backend architecture     | Multi-tenant SaaS design with tenant isolation, schema strategy and REST or GraphQL API contracts.         |
+| 02  | AI platform & resilience | Provider-agnostic LLM layers, RAG pipelines and fallback ladders that keep AI features up through outages. |
+| 03  | Performance & scale      | Query and index work, search, and queue-based workloads that keep APIs sub-second under load.              |
+| 04  | Technical leadership     | Leading backend teams through design review, code review and mentoring.                                    |
+
+**Let's build something resilient together.** Open to Backend Lead, Solutions Architecture and AI Platform roles, remote, hybrid or relocating.
+
+[Connect ↗](https://gravatar.com/juhbukhari)
+
+---
+
+<p align="center"><em>“The best code is never rewritten, because it is flexible enough to evolve with the business.”</em></p>
