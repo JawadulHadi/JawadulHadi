@@ -1,140 +1,103 @@
-## Backend Lead | Software Engineer
+<p align="center"><img src=".github/brand/banner.svg" alt="JawadulHadi banner" width="100%"></p>
+<p align="center"><img src=".github/brand/logo.svg" alt="JawadulHadi logo" width="72"></p>
 
-I design and deliver backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services. I focus on system boundaries, reliability patterns, data architecture, integration strategy, and operational stability.
+# JawadulHadi — Backend lead and software engineer
+
+I design and deliver reliable backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services.
+
+## Overview
+
+My work focuses on system boundaries, data architecture, integration strategy, and operational stability. I combine hands-on backend engineering with architecture reviews, code analysis, engineering standards, and technical mentorship.
 
 **Currently:** Backend Lead / Software Engineer at MicroAgility Services · Mar 2022 – Present
 
----
+## Key capabilities
 
-## Architectural Focus
+- **Backend architecture:** Microservices, domain-driven boundaries, tenant isolation, API contracts, and event-driven workflows.
+- **AI systems:** Provider abstraction, LLM orchestration, retrieval-augmented generation (RAG), structured generation, and agent patterns.
+- **Reliability engineering:** Retry logic, fallback strategies, safe migrations, and operational resilience.
+- **Performance engineering:** Schema design, indexing, query tuning, caching, queue processing, and latency reduction.
+- **API security:** Tenant-aware REST and GraphQL APIs, secure authentication, and authorisation.
 
-- Service decomposition and domain boundaries
-- Multi-tenant system design and isolation
-- Event-driven and asynchronous processing
-- REST and GraphQL API design
-- LLM orchestration and provider abstraction
-- Retrieval-augmented workflows
-- Failure handling and fallback strategies
-- Schema design and data access optimisation
-- Latency reduction and throughput tuning
-- Secure authentication and authorisation
-- Engineering standards and technical mentorship
+### Selected impact
 
----
+- Built a provider-agnostic AI integration layer for OpenAI, Gemini, and Anthropic.
+- Designed a three-stage recovery model: retry, retrieval fallback, and rule-based output.
+- Reduced dashboard response time from **12 seconds to under 2 seconds** through database and search optimisation.
+- Supported heavy asynchronous workloads with BullMQ and Redis.
+- Delivered secure tenant-aware APIs with OAuth 2.0, JWT, and role-based access control (RBAC).
+- Executed zero-downtime database migrations on live production systems.
+- Led architecture reviews and code analysis for backend teams.
 
-## Selected Impact
+## Architecture approach
 
-- Built a provider-agnostic AI integration layer for OpenAI, Gemini, and Anthropic
-- Designed a three-stage recovery model: retry, retrieval fallback, and rule-based output
-- Reduced dashboard response time from 12 seconds to under 2 seconds through database and search optimisation
-- Supported heavy asynchronous workloads with BullMQ and Redis
-- Delivered secure tenant-aware APIs with OAuth 2.0, JWT, and RBAC
-- Executed zero-downtime database migrations on live production systems
-- Led architecture reviews and code analysis for backend teams
+I focus on clear service boundaries and explicit failure handling, with data and integration choices shaped by production requirements.
 
----
+| Focus | Approach |
+|---|---|
+| Service design | Decompose services around domain boundaries and well-defined API contracts. |
+| Multi-tenancy | Design tenant isolation into data access, authentication, and authorisation. |
+| Asynchronous processing | Use event-driven workflows and queues to support background workloads. |
+| AI integration | Abstract model providers and design recovery paths for AI failures. |
+| Data performance | Optimise schemas, queries, indexes, caching, and search. |
+| Operational stability | Plan safe migrations, failure handling, and fallback strategies. |
+| Engineering practice | Maintain implementation standards through reviews and mentorship. |
 
-## Core Competencies
+## Tech stack
 
-| Area | Capability |
-|------|------------|
-| **Backend Architecture** | Microservices, domain-driven boundaries, API contracts, event workflows |
-| **AI Systems** | Model abstraction, RAG pipelines, structured generation, agent patterns |
-| **Reliability Engineering** | Retry logic, fallback design, safe migrations, operational resilience |
-| **Performance Engineering** | Indexing, query tuning, caching, queue processing, response-time reduction |
+| Area | Technologies and practices |
+|---|---|
+| Languages and backend | TypeScript, Node.js, NestJS, Python, Django, FastAPI, PHP, Laravel |
+| AI and LLM engineering | OpenAI, Google Gemini, Anthropic Claude, LangChain, Model Context Protocol (MCP), RAG pipelines, agentic AI, structured output |
+| Data and storage | PostgreSQL, MongoDB, MySQL, Redis, MeiliSearch |
+| Infrastructure and operations | AWS Lambda, Google Cloud, Docker, Kubernetes, GitHub Actions, BullMQ, n8n |
+| Integrations | Stripe, Twilio, Microsoft Graph |
+| APIs and security | REST, GraphQL, OAuth 2.0, JWT, RBAC |
 
----
+## Getting started
 
-## Technology Stack
+This is my GitHub profile repository, rather than a standalone application. Start with the public projects below to explore my implementation work, or read the case study for a closer look at production resilience patterns.
 
-### Backend & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<!-- Add project-specific setup links when available -->
 
-### AI / LLM Engineering
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP-2D2D2D?style=flat-square)
-![RAG Pipelines](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B5563?style=flat-square)
-![Structured Output](https://img.shields.io/badge/Structured_Output-4B5563?style=flat-square)
+## Usage
 
-### Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+Use this profile to explore my work, review my background, or get in touch.
 
-### Infrastructure & Operations
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-### Integrations & Security
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
----
-
-## Selected Projects
+### Selected projects
 
 | Project | Description |
-|---------|-------------|
+|---|---|
 | [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Decision engine with cryptographic audit trails |
 | [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with Gemini Vision integration |
 | [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | Document analysis system with fallback workflows |
 | [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analysis using Gemini Live API |
 
-*Most enterprise systems are private and NDA-bound. These public projects reflect my architecture style, implementation standards, and product focus.*
+Most enterprise systems are private and NDA-bound. These public projects reflect my architecture style, implementation standards, and product focus.
 
----
+### Writing and case study
 
-## Writing & Case Study
+**Designing for AI Failure** — A technical case study on production resilience patterns for NestJS-based systems.
 
-### Designing for AI Failure
-A technical case study on production resilience patterns for NestJS-based systems.
+[Read the full study](https://jawadulhadi-portfolio.vercel.app/)
 
-[Read Full Study](https://jawadulhadi-portfolio.vercel.app/)
-
----
-
-## Education & Certifications
+### Education and certifications
 
 **B.S. Computer Science** — Government College University, Faisalabad (2018)
 
-**Certifications:** IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
+Certifications from IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
 
-[Full Certification List](./CERTIFICATIONS.md)
+[View the full certification list](./CERTIFICATIONS.md)
 
----
-
-## Contact
+### Contact
 
 | Channel | Link |
-|---------|------|
+|---|---|
 | Portfolio | [jawadulhadi-portfolio.vercel.app](https://jawadulhadi-portfolio.vercel.app/) |
 | Email | [jawadulhadicc@gmail.com](mailto:jawadulhadicc@gmail.com) |
 | WhatsApp | [+92 346 7248414](https://wa.me/923467248414) |
 | Gravatar | [juhbukhari](https://gravatar.com/juhbukhari) |
 
----
+## Project status
 
-<p align="center">
-  <sub>Backend architecture, AI integration, and production reliability.</sub>
-</p>
+`JawadulHadi/JawadulHadi` is the special repository whose `README.md` appears on my public GitHub profile. It presents my professional background, selected public work, and contact information.
