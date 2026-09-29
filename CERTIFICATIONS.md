@@ -1,6 +1,6 @@
-#  **Professional Certifications**
+# **Verified Milestones**
 
-**Verified Certifications** across cloud platforms, AI/LLM, agentic AI tooling, and enterprise systems — synced directly from LinkedIn's certification export.
+A visual gallery tracking structural accomplishments in advanced cloud design, backend development, and data architecture.
 
 ---
 
@@ -488,12 +488,38 @@ These certifications represent continuous professional development and validatio
 - Cloud-native architecture
 - Full-stack capabilities
 
-For employment verification or detailed references, please contact via [Gravatar profile](https://gravatar.com/juhbukhari) or [Email](mailto:jawadulhadicc@gmail.com).
+For employment verification or detailed references.
+please contact via<p align="center"><a
+                          href="https://gravatar.com/juhbukhari"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style="
+                            color: #ffffff;
+                            font-family:
+                              -apple-system, BlinkMacSystemFont,
+                              &quot;Segoe UI&quot;, Roboto, sans-serif;
+                            font-size: 24px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            white-space: nowrap;
+                          "
+                          >🌐&nbsp;Let's Connect</a
+                        > - <a
+                          href="https://maps.google.com/?q=Islamabad,Pakistan"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style="
+                            color: #ffffff;
+                            font-family:
+                              -apple-system, BlinkMacSystemFont,
+                              &quot;Segoe UI&quot;, Roboto, sans-serif;
+                            font-size: 24px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            white-space: nowrap;
+                          "
+                          >📍&nbsp;Islamabad, PK</a
+                        >
+</p>
 
 ---
-
-<p align="center">
-  <strong>Last Updated</strong>: September 2026
-  <br>
-  <strong>Total Certifications</strong>: 53
-</p>
