@@ -1,103 +1,117 @@
-<p align="center"><img src=".github/brand/banner.svg" alt="JawadulHadi banner" width="100%"></p>
-<p align="center"><img src=".github/brand/logo.svg" alt="JawadulHadi logo" width="72"></p>
+<p align="center">
+  <img src="./assets/banner/github-social-preview.png" alt="Jawad Ul Hadi, Backend Lead / Architect" width="100%">
+</p>
 
-# JawadulHadi — Backend lead and software engineer
+**Seven years building Backend Lead Engineer, most of it on multi-tenant SaaS and AI-powered enterprise systems. I work in Node.js,
+NestJS, and TypeScript over PostgreSQL, MySQL, MongoDB, and Redis, with Python and FastAPI where those fit better,
+and I own architecture from database schema through deployment. Recent work has been in production AI: Anthropic
+models, MCP servers, provider abstraction, RAG pipelines, and the resilience patterns that keep them from failing loudly**
 
-I design and deliver reliable backend platforms for multi-tenant SaaS, AI-enabled products, and high-throughput services.
+### Featured · Designing for AI failure
 
-## Overview
+One abstraction sits in front of OpenAI, Gemini and Anthropic. When a provider degrades, requests step down through three tiers instead of surfacing an error. It became the team's standard failure-handling architecture and cut AI integration complexity by 60%.
 
-My work focuses on system boundaries, data architecture, integration strategy, and operational stability. I combine hands-on backend engineering with architecture reviews, code analysis, engineering standards, and technical mentorship.
+```mermaid
+flowchart LR
+  R[Request] --> G[Provider gateway<br/>OpenAI · Gemini · Anthropic]
+  G --> T1[Tier 1 · Retry & failover<br/>Backoff, then the next provider]
+  T1 --> T2[Tier 2 · RAG fallback<br/>Answer from retrieved context]
+  T2 --> T3[Tier 3 · Rule-based floor<br/>Deterministic, never hard-fails]
+```
 
-**Currently:** Backend Lead / Software Engineer at MicroAgility Services · Mar 2022 – Present
+[Read the full case study →](https://juh-bukhari.vercel.app/case-study)
 
-## Key capabilities
+| Role                     | System                               | Stack                                                          |
+| ------------------------ | ------------------------------------ | -------------------------------------------------------------- |
+| Backend Lead & Architect | Multi-tenant AI recruitment ATS      | NestJS · MongoDB · Gemini · MeiliSearch · BullMQ · Postal SMTP |
+| Backend Engineer         | APAC HRMS & payroll core             | NestJS · MySQL · PostgreSQL · GCS                              |
+| Backend Engineer         | Enterprise agile collaboration suite | NestJS · GraphQL · WebSocket · PostgreSQL · Docker             |
+| Software Engineer        | Serverless gateway & CRM layer       | AWS Lambda · API Gateway · FastAPI · Django REST               |
 
-- **Backend architecture:** Microservices, domain-driven boundaries, tenant isolation, API contracts, and event-driven workflows.
-- **AI systems:** Provider abstraction, LLM orchestration, retrieval-augmented generation (RAG), structured generation, and agent patterns.
-- **Reliability engineering:** Retry logic, fallback strategies, safe migrations, and operational resilience.
-- **Performance engineering:** Schema design, indexing, query tuning, caching, queue processing, and latency reduction.
-- **API security:** Tenant-aware REST and GraphQL APIs, secure authentication, and authorisation.
+## Projects & open source
 
-### Selected impact
+Personal builds, public and verifiable.
 
-- Built a provider-agnostic AI integration layer for OpenAI, Gemini, and Anthropic.
-- Designed a three-stage recovery model: retry, retrieval fallback, and rule-based output.
-- Reduced dashboard response time from **12 seconds to under 2 seconds** through database and search optimisation.
-- Supported heavy asynchronous workloads with BullMQ and Redis.
-- Delivered secure tenant-aware APIs with OAuth 2.0, JWT, and role-based access control (RBAC).
-- Executed zero-downtime database migrations on live production systems.
-- Led architecture reviews and code analysis for backend teams.
+**Flagship · Chrome extension pack.** Ten Manifest V3 extensions for developer and AI workflows: context extraction for agents, an API interceptor and mock sandbox, a schema and JWT decoder, a prompt workbench with diffing, token and cost estimates, a document scraper, a cross-LLM model switcher, a webhook relay, session isolation and a browser workflow recorder.
+`Chrome Extension API · TypeScript · Gemini API · WebSockets · IndexedDB`
 
-## Architecture approach
+**Infrastructure · Idempotent queue spine.** A BullMQ and Redis backbone for OCR extraction, batch email and multi-tenant webhook dispatch, with HMAC signature verification, dead-letter queues and exactly-once processing.
+`BullMQ · Redis · NestJS · HMAC`
 
-I focus on clear service boundaries and explicit failure handling, with data and integration choices shaped by production requirements.
+### The Qeloma suite
 
-| Focus | Approach |
-|---|---|
-| Service design | Decompose services around domain boundaries and well-defined API contracts. |
-| Multi-tenancy | Design tenant isolation into data access, authentication, and authorisation. |
-| Asynchronous processing | Use event-driven workflows and queues to support background workloads. |
-| AI integration | Abstract model providers and design recovery paths for AI failures. |
-| Data performance | Optimise schemas, queries, indexes, caching, and search. |
-| Operational stability | Plan safe migrations, failure handling, and fallback strategies. |
-| Engineering practice | Maintain implementation standards through reviews and mentorship. |
+| Project             | What it does                                                                                                                       | Link                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Verdict             | Tamper-evident decision engine that issues reasoning receipts with cryptographic audit trails, built for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/)                  |
+| OCR                 | Client-side OCR with per-word confidence scores from Tesseract.js, Gemini vision or a hybrid of both.                              | [Live ↗](https://qeloma-ocr.vercel.app/)                      |
+| Lens Studio         | Summarise, extract and compare across PDFs, DOCX and images, powered by Gemini with rule-based fallbacks.                          | [Live ↗](https://qelomalens.vercel.app/)                      |
+| Voice Studio        | Real-time voice analyst that answers from your own documents through the Gemini Live API.                                          | [Live ↗](https://qeloma-voice.vercel.app/)                    |
+| Shift               | Semantic diffing for contracts and configs that ranks changes by severity and explains business impact.                            | [Live ↗](https://qeloma-shift.vercel.app/)                    |
+| Cover Studio        | Browser-based LinkedIn banner studio that composes on-brand vector cover art from a short prompt.                                  | [Source ↗](https://github.com/Qeloma/qeloma-cover-studio)     |
+| Meetings Rooms Engine  | Scheduling backplane that resolves overlapping booking requests with conflict-safe reservation locking.                         | [Source ↗](https://github.com/Qeloma/qeloma_room_booking_app) |
 
-## Tech stack
+## Selected work
 
-| Area | Technologies and practices |
-|---|---|
-| Languages and backend | TypeScript, Node.js, NestJS, Python, Django, FastAPI, PHP, Laravel |
-| AI and LLM engineering | OpenAI, Google Gemini, Anthropic Claude, LangChain, Model Context Protocol (MCP), RAG pipelines, agentic AI, structured output |
-| Data and storage | PostgreSQL, MongoDB, MySQL, Redis, MeiliSearch |
-| Infrastructure and operations | AWS Lambda, Google Cloud, Docker, Kubernetes, GitHub Actions, BullMQ, n8n |
-| Integrations | Stripe, Twilio, Microsoft Graph |
-| APIs and security | REST, GraphQL, OAuth 2.0, JWT, RBAC |
+> Client systems are under NDA. Architecture is described without business data or endpoints.
 
-## Getting started
+## Stack
 
-This is my GitHub profile repository, rather than a standalone application. Start with the public projects below to explore my implementation work, or read the case study for a closer look at production resilience patterns.
+| Area         | Tools                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------- |
+| Architecture | Multi-tenant SaaS, microservices, event-driven design, GraphQL API design, reliability trade-offs |
+| Backend      | Node.js, NestJS, TypeScript, Python, FastAPI, Django, PostgreSQL, MongoDB, MySQL, Redis           |
+| AI systems   | RAG pipelines, MCP servers, OpenAI, Gemini and Anthropic integration, Claude Code, Copilot        |
+| Delivery     | GitHub Actions, Jest, OAuth 2.0 / JWT, AWS, GCP, Docker, Kubernetes, BullMQ                       |
 
-<!-- Add project-specific setup links when available -->
+## Services
 
-## Usage
+|     | Service                  | Scope                                                                                                      |
+| --- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| 01  | Backend architecture     | Multi-tenant SaaS design with tenant isolation, schema strategy and REST or GraphQL API contracts.         |
+| 02  | AI platform & resilience | Provider-agnostic LLM layers, RAG pipelines and fallback ladders that keep AI features up through outages. |
+| 03  | Performance & scale      | Query and index work, search, and queue-based workloads that keep APIs sub-second under load.              |
+| 04  | Technical leadership     | Leading backend teams through design review, code review and mentoring.                                    |
 
-Use this profile to explore my work, review my background, or get in touch.
+**Education:** B.S. Computer Science, Government College University, Faisalabad, 2018
 
-### Selected projects
+**Certifications** from IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
+[Certification's Page](./CERTIFICATIONS.md)
 
-| Project | Description |
-|---|---|
-| [Qeloma Verdict](https://github.com/Qeloma/qeloma-verdict) | Decision engine with cryptographic audit trails |
-| [Qeloma OCR](https://github.com/Qeloma/qeloma-ocr) | Client-side OCR with Gemini Vision integration |
-| [Qeloma Lens Studio](https://github.com/Qeloma/qeloma_lens_studio) | Document analysis system with fallback workflows |
-| [Qeloma Voice Studio](https://github.com/Qeloma/qeloma_voice_studio) | Real-time voice analysis using Gemini Live API |
+## Contact
 
-Most enterprise systems are private and NDA-bound. These public projects reflect my architecture style, implementation standards, and product focus.
+Open to Backend Lead, Solutions Architecture and AI Platform roles, remote, hybrid or relocating.
 
-### Writing and case study
-
-**Designing for AI Failure** — A technical case study on production resilience patterns for NestJS-based systems.
-
-[Read the full study](https://jawadulhadi-portfolio.vercel.app/)
-
-### Education and certifications
-
-**B.S. Computer Science** — Government College University, Faisalabad (2018)
-
-Certifications from IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
-
-[View the full certification list](./CERTIFICATIONS.md)
-
-### Contact
-
-| Channel | Link |
-|---|---|
-| Portfolio | [jawadulhadi-portfolio.vercel.app](https://jawadulhadi-portfolio.vercel.app/) |
-| Email | [jawadulhadicc@gmail.com](mailto:jawadulhadicc@gmail.com) |
-| WhatsApp | [+92 346 7248414](https://wa.me/923467248414) |
-| Gravatar | [juhbukhari](https://gravatar.com/juhbukhari) |
-
-## Project status
-
-`JawadulHadi/JawadulHadi` is the special repository whose `README.md` appears on my public GitHub profile. It presents my professional background, selected public work, and contact information.
+<p align="left">
+   <a
+                          href="https://gravatar.com/juhbukhari"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style="
+                            color: #ffffff;
+                            font-family:
+                              -apple-system, BlinkMacSystemFont,
+                              &quot;Segoe UI&quot;, Roboto, sans-serif;
+                            font-size: 11.5px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            white-space: nowrap;
+                          "
+                          >🌐&nbsp;Profile</a
+                        >
+       <a
+                          href="https://maps.google.com/?q=Islamabad,Pakistan"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style="
+                            color: #ffffff;
+                            font-family:
+                              -apple-system, BlinkMacSystemFont,
+                              &quot;Segoe UI&quot;, Roboto, sans-serif;
+                            font-size: 11.5px;
+                            font-weight: 600;
+                            text-decoration: none;
+                            white-space: nowrap;
+                          "
+                          >📍&nbsp;Islamabad, PK</a
+                        >
+</p>
