@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner/github-social-preview.png" alt="Jawad Ul Hadi, Backend Lead / Architect" width="100%">
+  <img src=".assets/banner/photo-variant/github-social-preview-1280x640.png" alt="Jawad Ul Hadi, Backend Lead / Architect" width="100%">
 </p>
 
 **Seven years building Backend Lead Engineer, most of it on multi-tenant SaaS and AI-powered enterprise systems. I work in Node.js,
 NestJS, and TypeScript over PostgreSQL, MySQL, MongoDB, and Redis, with Python and FastAPI where those fit better,
 and I own architecture from database schema through deployment. Recent work has been in production AI: Anthropic
-models, MCP servers, provider abstraction, RAG pipelines, and the resilience patterns that keep them from failing loudly**
+models, MCP servers, provider abstraction, RAG pipelines, and the resilience patterns that keep them from failing loudly.**
 
 ### Featured · Designing for AI failure
 
