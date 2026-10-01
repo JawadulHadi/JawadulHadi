@@ -47,8 +47,7 @@ Personal builds, public and verifiable.
 | Lens Studio         | Summarise, extract and compare across PDFs, DOCX and images, powered by Gemini with rule-based fallbacks.                          | [Live ↗](https://qelomalens.vercel.app/)                      |
 | Voice Studio        | Real-time voice analyst that answers from your own documents through the Gemini Live API.                                          | [Live ↗](https://qeloma-voice.vercel.app/)                    |
 | Shift               | Semantic diffing for contracts and configs that ranks changes by severity and explains business impact.                            | [Live ↗](https://qeloma-shift.vercel.app/)                    |
-| Cover Studio        | Browser-based LinkedIn banner studio that composes on-brand vector cover art from a short prompt.                                  | [Source ↗](https://github.com/Qeloma/qeloma-cover-studio)     |
-| Meetings Rooms Engine  | Scheduling backplane that resolves overlapping booking requests with conflict-safe reservation locking.                         | [Source ↗](https://github.com/Qeloma/qeloma_room_booking_app) |
+  | Cover Studio        | Browser-based LinkedIn banner studio that composes on-brand vector cover art from a short prompt.                                  | [live ↗](https://cover-studiio.vercel.app/)     |
 
 ## Selected work
 
