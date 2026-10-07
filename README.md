@@ -2,10 +2,7 @@
   <img src="./assets/banner/photo-variant/github-social-preview-1280x640.png" alt="Jawad Ul Hadi, Backend Lead / Architect" width="100%">
 </p>
 
-**Seven years building Backend Lead Engineer, most of it on multi-tenant SaaS and AI-powered enterprise systems. I work in Node.js,
-NestJS, and TypeScript over PostgreSQL, MySQL, MongoDB, and Redis, with Python and FastAPI where those fit better,
-and I own architecture from database schema through deployment. Recent work has been in production AI: Anthropic
-models, MCP servers, provider abstraction, RAG pipelines, and the resilience patterns that keep them from failing loudly.**
+**I am a Backend Lead and Architect with more than seven years’ experience designing and managing scalable, multi-tenant SaaS platforms and AI-powered systems. My core stack comprises NestJS, TypeScript, PostgreSQL, GraphQL, microservices, and Redis. I use AI tools such as Claude Code and GitHub Copilot to improve delivery while ensuring correctness, security, and sound system design.**
 
 ### Featured · Designing for AI failure
 
@@ -19,7 +16,7 @@ flowchart LR
   T2 --> T3[Tier 3 · Rule-based floor<br/>Deterministic, never hard-fails]
 ```
 
-[Read the full case study →](https://juh-bukhari.vercel.app/case-study)
+[Read the full case study →](https://juh-bukhari.vercel.app)
 
 | Role                     | System                               | Stack                                                          |
 | ------------------------ | ------------------------------------ | -------------------------------------------------------------- |
@@ -74,7 +71,7 @@ Personal builds, public and verifiable.
 **Education:** B.S. Computer Science, Government College University, Faisalabad, 2018
 
 **Certifications** from IBM, Microsoft, Google, Anthropic, Coursera, and LinkedIn Learning in AI/LLM, cloud infrastructure, and backend engineering.
-[Certification's Page](./CERTIFICATIONS.md)
+[Certifications Page](./CERTIFICATIONS.md)
 
 ## Contact
 
