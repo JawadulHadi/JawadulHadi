@@ -1,90 +1,99 @@
-<p align="center">
-  <img src="./assets/banner/photo-variant/github-social-preview-1280x640.png" alt="Jawad Ul Hadi, Backend Lead / Architect" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Jawad Ul Hadi · Backend Lead / Architect · multi-tenant SaaS and production AI" src="./assets/header-light.svg" width="100%">
+</picture>
 
-**Backend Lead Engineer with 8+ years building distributed systems for multi-tenant SaaS and enterprise products. At MicroAgility I lead backend architecture for Talentnix, a multi-tenant SaaS platform, and the APAC Management System (HRMS). I work mainly in Node.js, NestJS and TypeScript on PostgreSQL, MySQL, MongoDB and Redis, with Python and FastAPI where they fit, and I own architecture from database schema to deployment. My recent focus is production AI: Anthropic-based features, MCP servers, provider-agnostic abstraction layers and RAG pipelines, with retry and fallback patterns that keep failures quiet and contained.**
+### Backend Lead / Architect · NestJS · TypeScript · PostgreSQL · GraphQL · BullMQ · Redis · RAG · LLM
 
-## Experience
+8+ years on production backends. I own multi-tenant SaaS architecture from database schema to deployment, with a recent focus on production AI: a provider-agnostic LLM layer, RAG, and failure containment. Backend Lead Engineer at MicroAgility Services, Jan 2024 – Present. Based in Islamabad (UTC+5), with working hours aligned to EST/PST for US and Canada remote teams.
 
-| Role                      | Company                          | Period              | Systems                                                                                 |
-| ------------------------- | -------------------------------- | ------------------- | --------------------------------------------------------------------------------------- |
-| Backend Lead Engineer     | MicroAgility Services, Islamabad | Jan 2024 – Present  | Talentnix multi-tenant SaaS and AI gateway, APAC Management System (HRMS), internal ATS |
-| Backend Software Engineer | MicroAgility Services, Islamabad | Mar 2022 – Jan 2024 | iAgility and AgileBrains hiring platforms on MEAN microservices and GraphQL             |
-| Software Engineer         | Market Icon, Rawalpindi          | Aug 2018 – Mar 2022 | Large-scale MEAN system on OpenStack, serverless AWS services, CRM and payment APIs     |
+> [!IMPORTANT]
+> **Case study · [Designing for AI Failure](https://juh-bukhari.vercel.app/case-study)**
+> How the Talentnix AI gateway kept answering through live LLM outages: Retry across OpenAI, Gemini and Anthropic → RAG Fallback → Rule-Based Floor. Result: **zero AI failures during live LLM outages**.
 
-- **12s → under 2s** dashboard response times (83%) through PostgreSQL and MongoDB query tuning, new indexes and a MeiliSearch rollout.
-- **Zero cross-tenant data exposure** to date, with tenant isolation enforced across REST and GraphQL APIs using OAuth 2.0/JWT.
-- **Sub-second APIs** while thousands of async jobs run concurrently on an event-driven BullMQ and Redis pipeline.
-- **99.9% uptime** through zero-downtime schema migrations on live multi-tenant production databases.
-- **~40% faster data retrieval** after refactoring REST and GraphQL services that serve thousands of users across tenants.
-- **Faster releases** from GitHub Actions CI/CD with automated test gates, plus full Jest unit-test coverage built with GitHub Copilot.
-- **Three associate developers** mentored through MicroAgility's Learning & Development program.
+---
 
-> Client systems are under NDA. Architecture is described without business data or endpoints.
+## Impact, in numbers
+
+| Result | System |
+| --- | --- |
+| Dashboard load **from 12s to under 2s (83%)** | PostgreSQL and MongoDB query tuning, new indexes, MeiliSearch rollout |
+| **Cut AI integration complexity by 60%** | Talentnix AI gateway: OpenAI, Gemini and Anthropic behind one routing layer with automatic failover |
+| **Zero AI failures during live LLM outages** | Retry → RAG Fallback → Rule-Based Floor |
+| **No cross-tenant data exposure incidents to date** | Tenant isolation across REST and GraphQL APIs with OAuth 2.0/JWT |
+| **APIs under a second while thousands of async jobs run concurrently** | Event-driven BullMQ and Redis job pipeline |
+| Mentoring **three associate backend developers** | Learning & Development programme |
+
+---
+
+## Agentic loops I build
+
+**One agent: plan, act, observe, reflect.** Each pass ends in Reflect: loop again with what was learned, or stop and respond. Illustrative run from the internal ATS (Claude Code + Gemini 2.5 Flash).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/agent-loop-dark.svg">
+  <img alt="Agent loop cycling through plan, act (tool call), observe and reflect" src="./assets/agent-loop-light.svg" width="100%">
+</picture>
+
+**A team of agents on one bus.** Planner, Retriever (RAG), Tool runner (MCP) and Critic exchange tasks through BullMQ and Redis until the Critic approves.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/agent-swarm-dark.svg">
+  <img alt="Planner, Retriever, Tool runner and Critic agents exchanging messages over a BullMQ and Redis bus" src="./assets/agent-swarm-light.svg" width="100%">
+</picture>
+
+**The fallback chain behind every agent call.** Two retries per provider, a circuit breaker opens, the call moves on. With every LLM provider down, the RAG Fallback answers; the Rule-Based Floor answers last.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/fallback-chain-dark.svg">
+  <img alt="Fallback chain: OpenAI, Gemini and Anthropic fail in turn, then the RAG Fallback answers" src="./assets/fallback-chain-light.svg" width="100%">
+</picture>
+
+---
+
+## Public projects
+
+Personal builds, public and verifiable. Client systems are under NDA, so they appear only as architecture.
+
+| Project | What it does | Link |
+| --- | --- | --- |
+| Omni.io | Multi-tenant RAG support engine with a three-tier resilience ladder, Postgres row-level-security isolation, an embeddable widget and an MCP server. | [Source](https://github.com/Qeloma/omni-io) |
+| Verdict | Tamper-evident decision engine that issues hash-chained, signed reasoning receipts for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/) |
+| Lens Studio | Summarise, extract and compare across PDFs, DOCX and images on Gemini, with deterministic fallbacks. | [Live ↗](https://qelomalens.vercel.app/) |
+| Voice Studio | Real-time voice analyst on the Gemini Live API that answers from your own documents. | [Live ↗](https://qeloma-voice.vercel.app/) |
+| Shift | Semantic diffing for contracts and configs that ranks changes by materiality and explains business impact. | [Live ↗](https://qeloma-shift.vercel.app/) |
+| Scanwise | Turns scans, PDFs and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Source](https://github.com/JawadulHadi/scanwise) |
+
+---
 
 ## Stack
 
-| Area             | Tools                                                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Architecture     | Distributed systems, microservices, event-driven architecture, multi-tenant SaaS, REST and GraphQL API design            |
-| Backend          | Node.js, NestJS, TypeScript, Express.js, Python, FastAPI, Django REST Framework, PostgreSQL, MySQL, MongoDB, Redis       |
-| Queues & search  | BullMQ, MeiliSearch, query and performance optimisation                                                                  |
-| AI systems       | LLM integration (OpenAI, Gemini, Anthropic), RAG pipelines, MCP servers, AI agent workflows, Claude Code, GitHub Copilot |
-| Cloud & delivery | AWS (Lambda, API Gateway), GCP, OpenStack, Docker, Kubernetes, GitHub Actions CI/CD, Jest, OAuth 2.0 / JWT               |
-| Domains          | Multi-tenant SaaS, HRMS, CRM                                                                                             |
+**Backend:** NestJS · Node.js · TypeScript · Express.js · Python · FastAPI · Django REST Framework  
+**Data:** PostgreSQL · MySQL · MongoDB · Redis · BullMQ · MeiliSearch  
+**AI:** LLM integration (OpenAI, Gemini, Anthropic) · RAG pipelines · MCP servers · AI agent workflows · Claude Code · GitHub Copilot  
+**Architecture:** Multi-tenant SaaS · microservices · event-driven architecture · REST and GraphQL API design  
+**Cloud and delivery:** AWS (Lambda, API Gateway) · GCP · OpenStack · Docker · Kubernetes · GitHub Actions · Jest · OAuth 2.0/JWT
 
-## Services
+## Experience
 
-|    | Service                  | Scope                                                                                                      |
-| -- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| 01 | Backend architecture     | Multi-tenant SaaS design with tenant isolation, schema strategy and REST or GraphQL API contracts.         |
-| 02 | AI platform & resilience | Provider-agnostic LLM layers, RAG pipelines and fallback ladders that keep AI features up through outages. |
-| 03 | Performance & scale      | Query and index work, search, and queue-based workloads that keep APIs sub-second under load.              |
-| 04 | Technical leadership     | Mentoring and onboarding, architecture and code review, and architecture decision records (ADRs).          |
+- **Backend Lead Engineer**, MicroAgility Services (Pvt) Ltd. · Jan 2024 – Present · Talentnix (multi-tenant SaaS), APAC Management System (HRMS)
+- **Backend Software Engineer**, MicroAgility Services (Pvt) Ltd. · Mar 2022 – Jan 2024 · iAgility and AgileBrains; 99.9% uptime with zero-downtime schema migrations on live multi-tenant databases
+- **Software Engineer**, Market Icon · Aug 2018 – Mar 2022 · Distributed MEAN system on OpenStack, serverless AWS Lambda services
 
-**Education:** B.S. Computer Science, Government College University, Faisalabad, 2018
+## Credentials
 
-**Certifications:** Claude Code in Action (Anthropic) · Containers & Kubernetes Essentials (IBM) · Gen AI: Beyond the Chatbot (Google) · Introduction to Generative AI and Agents (Microsoft) · Certified Django Developer.
-[All verified certifications →](./CERTIFICATIONS.md)
+**75 verified credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6 · 5 others → [full list](https://juh-bukhari.vercel.app/credentials) · [in this repo](./CERTIFICATIONS.md)
 
-### Featured · Designing for AI failure
+| Credential | Issuer | Completed |
+| --- | --- | --- |
+| [Claude Code in Action](https://academy.claude.com/verify/ff1b2c578e9794408a0ba9c5beedc928) | Anthropic | Aug 2026 |
+| [Containers & Kubernetes Essentials](https://www.credly.com/badges/13300660-220e-4a01-ad7e-c4be671babf4) | IBM | Sep 2026 |
+| [Gen AI: Beyond the Chatbot](https://www.skills.google/public_profiles/e7e2ac08-758d-47f5-af65-589153c6b873/badges/26965991) | Google | Aug 2026 |
+| [Introduction to generative AI and agents](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/FEGYP6TX?sharingId=AFF773B6C8D61F92) | Microsoft Learning | Sep 2026 |
+| Certified Django Developer | Udemy (e-smartdata.org) | Oct 2025 |
 
-Talentnix's AI gateway puts one routing layer in front of OpenAI, Gemini and Anthropic, with automatic failover between them. When a provider degrades, requests step down through three tiers instead of surfacing an error. Users have seen zero AI failures during live LLM outages, and the single gateway cut AI integration complexity by 60%.
+## Find me
 
-```mermaid
-flowchart LR
-  R[Request] --> G[Provider gateway<br/>OpenAI · Gemini · Anthropic]
-  G --> T1[Tier 1 · Retry & failover<br/>Backoff, then the next provider]
-  T1 --> T2[Tier 2 · RAG fallback<br/>Answer from retrieved context]
-  T2 --> T3[Tier 3 · Rule-based floor<br/>Deterministic, never hard-fails]
-```
+[Portfolio](https://juh-bukhari.vercel.app) · [Résumé (PDF)](https://juh-bukhari.vercel.app/resume.pdf) · [Case study](https://juh-bukhari.vercel.app/case-study) · [LinkedIn](https://linkedin.com/in/jawad-ul-hadi) · [GitLab](https://gitlab.com/JawadulHadi) · [Stack Overflow](https://stackoverflow.com/users/19086162/jawad-ul-hadi) · [ORCID](https://orcid.org/0009-0007-1317-4615) · [Book a call](https://calendly.com/jawadulhadicc) · <jawadulhadicc@gmail.com>
 
-[Read the full case study →](https://juh-bukhari.vercel.app)
-
-## Projects & open source
-
-Personal builds, public and verifiable.
-
-**Flagship · Chrome extension pack.** Ten Manifest V3 extensions for developer and AI workflows: context extraction for agents, an API interceptor and mock sandbox, a schema and JWT decoder, a prompt workbench with diffing, token and cost estimates, a document scraper, a cross-LLM model switcher, a webhook relay, session isolation and a browser workflow recorder.
-`Chrome Extension API · TypeScript · Gemini API · WebSockets · IndexedDB`
-
-**Infrastructure · Idempotent queue spine.** A BullMQ and Redis backbone for OCR extraction, batch email and multi-tenant webhook dispatch, with HMAC signature verification, dead-letter queues and exactly-once processing.
-`BullMQ · Redis · NestJS · HMAC`
-
-### The Qeloma suite
-
-| Project      | What it does                                                                                                                       | Link                                         |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| Verdict      | Tamper-evident decision engine that issues reasoning receipts with cryptographic audit trails, built for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/) |
-| OCR          | Client-side OCR with per-word confidence scores from Tesseract.js, Gemini vision or a hybrid of both.                              | [Live ↗](https://qeloma-ocr.vercel.app/)     |
-| Lens Studio  | Summarise, extract and compare across PDFs, DOCX and images, powered by Gemini with rule-based fallbacks.                          | [Live ↗](https://qelomalens.vercel.app/)     |
-| Voice Studio | Real-time voice analyst that answers from your own documents through the Gemini Live API.                                          | [Live ↗](https://qeloma-voice.vercel.app/)   |
-| Shift        | Semantic diffing for contracts and configs that ranks changes by severity and explains business impact.                            | [Live ↗](https://qeloma-shift.vercel.app/)   |
-| Cover Studio | Browser-based LinkedIn banner studio that composes on-brand vector cover art from a short prompt.                                  | [Live ↗](https://cover-studiio.vercel.app/)  |
-
-## Contact
-
-Open to full-time Backend Lead, Solutions Architecture and AI Platform roles: remote, hybrid or on-site, and to relocation with support.
-<a href="https://gravatar.com/juhbukhari"><img src="./assets/brand/lets-connect.svg" alt="Let's Connect" height="40"></a>
-
-[Résumé (PDF)](./assets/Jawad_Ul_Hadi_Resume.pdf) · [Email](mailto:jawadulhadicc@gmail.com) · [Portfolio](https://juh-bukhari.vercel.app) · [LinkedIn](https://linkedin.com/in/jawad-ul-hadi) · [Stack Overflow](https://stackoverflow.com/users/19086162/jawad-ul-hadi) · [GitLab](https://gitlab.com/JawadulHadi) · [Islamabad, PK](https://maps.google.com/?q=Islamabad,Pakistan)
+<sub>Animations are plain SVG (CSS + SMIL), follow your GitHub light/dark theme, and stop when your system asks for reduced motion.</sub>
