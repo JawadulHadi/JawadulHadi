@@ -58,15 +58,50 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 | Lens Studio | Summarise, extract and compare across PDFs, DOCX and images on Gemini, with deterministic fallbacks. | [Live ↗](https://qelomalens.vercel.app/) |
 | Voice Studio | Real-time voice analyst on the Gemini Live API that answers from your own documents. | [Live ↗](https://qeloma-voice.vercel.app/) |
 | Shift | Semantic diffing for contracts and configs that ranks changes by materiality and explains business impact. | [Live ↗](https://qeloma-shift.vercel.app/) |
-| Scanwise | Turns scans, PDFs and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Source](https://github.com/JawadulHadi/scanwise) |
+| Scanwise | Turns scans, PDFs and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Live](https://scanwise-io.vercel.app) |
 
 ### Stack
 
-- **Backend:** NestJS · Node.js · TypeScript · Express.js · Python · FastAPI · Django REST Framework
-- **Data:** PostgreSQL · MySQL · MongoDB · Redis · BullMQ · MeiliSearch
-- **AI:** LLM integration (OpenAI, Gemini, Anthropic) · RAG pipelines · MCP servers · AI agent workflows · Claude Code · GitHub Copilot
-- **Architecture:** Multi-tenant SaaS · microservices · event-driven architecture · REST and GraphQL API design
-- **Cloud and delivery:** AWS (Lambda, API Gateway) · GCP · OpenStack · Docker · Kubernetes · GitHub Actions · Jest · OAuth 2.0/JWT
+**Backend** -
+<a href="https://nestjs.com"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"></a>
+<a href="https://nodejs.org"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></a>
+<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
+<a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"></a>
+<a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="https://fastapi.tiangolo.com"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"></a>
+<a href="https://www.django-rest-framework.org"><img alt="Django REST" src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white"></a>
+
+**Data** -
+<a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
+<a href="https://www.mongodb.com"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
+<a href="https://redis.io"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
+<a href="https://bullmq.io"><img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
+<a href="https://www.meilisearch.com"><img alt="MeiliSearch" src="https://img.shields.io/badge/MeiliSearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white"></a>
+
+**AI** -
+<a href="https://openai.com"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"></a>
+<a href="https://deepmind.google/technologies/gemini/"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"></a>
+<a href="https://www.anthropic.com"><img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"></a>
+<a href="https://www.anthropic.com/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"></a>
+<a href="https://github.com/features/copilot"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"></a>
+
+**Architecture** -
+<img alt="Multi-tenant SaaS" src="https://img.shields.io/badge/Multi--tenant%20SaaS-0A0A0A?style=flat-square">
+<img alt="Microservices" src="https://img.shields.io/badge/Microservices-0A0A0A?style=flat-square">
+<img alt="Event-Driven" src="https://img.shields.io/badge/Event--Driven-0A0A0A?style=flat-square">
+<img alt="REST API" src="https://img.shields.io/badge/REST%20API-0A0A0A?style=flat-square">
+<a href="https://graphql.org"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>
+
+**Cloud & Delivery** -
+<a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"></a>
+<a href="https://cloud.google.com"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://www.openstack.org"><img alt="OpenStack" src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white"></a>
+<a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+<a href="https://kubernetes.io"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></a>
+<a href="https://jestjs.io"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"></a>
+<a href="https://oauth.net/2/"><img alt="OAuth 2.0 / JWT" src="https://img.shields.io/badge/OAuth%202.0%20%2F%20JWT-3C3C3D?style=flat-square&logo=jsonwebtokens&logoColor=white"></a>
 
 ### Experience
 
