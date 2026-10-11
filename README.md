@@ -5,7 +5,16 @@
 
 ### Backend Lead Engineer / Architect
 
-NestJS · TypeScript · PostgreSQL · GraphQL · BullMQ · Redis · RAG · LLM
+<p>
+  <a href="https://nestjs.com"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
+  <a href="https://graphql.org"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>
+  <a href="https://bullmq.io"><img alt="BullMQ" src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
+  <a href="https://redis.io"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></a>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square">
+ <a href=https://llm.co> <img alt="LLM" src="https://img.shields.io/badge/LLM-0A0A0A?style=flat-square"></a>
+</p>
 
 8+ years on production backends. I own multi-tenant SaaS architecture from database schema to deployment, with a recent focus on production AI: a provider-agnostic LLM layer, RAG, and failure containment. Backend Lead Engineer at MicroAgility Services, Jan 2024 – Present. Based in Islamabad (UTC+5), with working hours aligned to EST/PST for US and Canada remote teams.
 
