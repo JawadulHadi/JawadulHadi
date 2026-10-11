@@ -3,7 +3,8 @@
   <img alt="Jawad Ul Hadi · Backend Lead / Architect · multi-tenant SaaS and production AI" src="./assets/header-light.svg" width="100%">
 </picture>
 
-### Backend Lead / Architect · NestJS · TypeScript · PostgreSQL · GraphQL · BullMQ · Redis · RAG · LLM
+#### Backend Lead Engineer / Architect
+* NestJS · TypeScript · PostgreSQL · GraphQL · BullMQ · Redis · RAG · LLM
 
 8+ years on production backends. I own multi-tenant SaaS architecture from database schema to deployment, with a recent focus on production AI: a provider-agnostic LLM layer, RAG, and failure containment. Backend Lead Engineer at MicroAgility Services, Jan 2024 – Present. Based in Islamabad (UTC+5), with working hours aligned to EST/PST for US and Canada remote teams.
 
@@ -13,7 +14,7 @@
 
 ---
 
-## Impact, in numbers
+#### Impact, in numbers
 
 | Result | System |
 | --- | --- |
@@ -26,7 +27,7 @@
 
 ---
 
-## Agentic loops I build
+#### Agentic loops I build
 
 **One agent: plan, act, observe, reflect.** Each pass ends in Reflect: loop again with what was learned, or stop and respond. Illustrative run from the internal ATS (Claude Code + Gemini 2.5 Flash).
 
@@ -51,7 +52,7 @@
 
 ---
 
-## Public projects
+#### Public projects
 
 Personal builds, public and verifiable. Client systems are under NDA, so they appear only as architecture.
 
@@ -66,7 +67,7 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 
 ---
 
-## Stack
+#### Stack
 
 **Backend:** NestJS · Node.js · TypeScript · Express.js · Python · FastAPI · Django REST Framework  
 **Data:** PostgreSQL · MySQL · MongoDB · Redis · BullMQ · MeiliSearch  
@@ -74,13 +75,13 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 **Architecture:** Multi-tenant SaaS · microservices · event-driven architecture · REST and GraphQL API design  
 **Cloud and delivery:** AWS (Lambda, API Gateway) · GCP · OpenStack · Docker · Kubernetes · GitHub Actions · Jest · OAuth 2.0/JWT
 
-## Experience
+#### Experience
 
 - **Backend Lead Engineer**, MicroAgility Services (Pvt) Ltd. · Jan 2024 – Present · Talentnix (multi-tenant SaaS), APAC Management System (HRMS)
 - **Backend Software Engineer**, MicroAgility Services (Pvt) Ltd. · Mar 2022 – Jan 2024 · iAgility and AgileBrains; 99.9% uptime with zero-downtime schema migrations on live multi-tenant databases
 - **Software Engineer**, Market Icon · Aug 2018 – Mar 2022 · Distributed MEAN system on OpenStack, serverless AWS Lambda services
 
-## Credentials
+#### Credentials
 
 **75 verified credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6 · 5 others → [full list](https://juh-bukhari.vercel.app/credentials) · [in this repo](./CERTIFICATIONS.md)
 
@@ -90,10 +91,9 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 | [Containers & Kubernetes Essentials](https://www.credly.com/badges/13300660-220e-4a01-ad7e-c4be671babf4) | IBM | Sep 2026 |
 | [Gen AI: Beyond the Chatbot](https://www.skills.google/public_profiles/e7e2ac08-758d-47f5-af65-589153c6b873/badges/26965991) | Google | Aug 2026 |
 | [Introduction to generative AI and agents](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/FEGYP6TX?sharingId=AFF773B6C8D61F92) | Microsoft Learning | Sep 2026 |
-| Certified Django Developer | Udemy (e-smartdata.org) | Oct 2025 |
 
-## Find me
+#### Find me
 
-[Portfolio](https://juh-bukhari.vercel.app) · [Résumé (PDF)](https://juh-bukhari.vercel.app/resume.pdf) · [Case study](https://juh-bukhari.vercel.app/case-study) · [LinkedIn](https://linkedin.com/in/jawad-ul-hadi) · [GitLab](https://gitlab.com/JawadulHadi) · [Stack Overflow](https://stackoverflow.com/users/19086162/jawad-ul-hadi) · [ORCID](https://orcid.org/0009-0007-1317-4615) · [Book a call](https://calendly.com/jawadulhadicc) · <jawadulhadicc@gmail.com>
+[Portfolio](https://juh-bukhari.vercel.app) . [Résumé (PDF)](https://juh-bukhari.vercel.app/resume.pdf) · [Case study](https://juh-bukhari.vercel.app/case-study) · [LinkedIn](https://linkedin.com/in/jawad-ul-hadi) · [GitLab](https://gitlab.com/JawadulHadi) · [Stack Overflow](https://stackoverflow.com/users/19086162/jawad-ul-hadi) · [ORCID](https://orcid.org/0009-0007-1317-4615) · [Book a call](https://calendly.com/jawadulhadicc) · <jawadulhadicc@gmail.com>
 
 <sub>Animations are plain SVG (CSS + SMIL), follow your GitHub light/dark theme, and stop when your system asks for reduced motion.</sub>
