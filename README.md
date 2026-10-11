@@ -118,7 +118,7 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 
 ### Credentials
 
-**75 verified credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6 · 5 others → [full list](https://juh-bukhari.vercel.app/credentials) · [in this repo](./CERTIFICATIONS.md)
+**74 Verified Credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6 · 5 others → [full list](https://juh-bukhari.vercel.app/credentials) · [in this repo](./CERTIFICATIONS.md)
 
 | Credential | Issuer | Completed |
 | --- | --- | --- |
