@@ -130,15 +130,15 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 ### Find me
 
 <p>
-  <a href="https://juh-bukhari.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://juh-bukhari.vercel.app/resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-4B5563?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="https://juh-bukhari.vercel.app/case-study"><img alt="Case Study" src="https://img.shields.io/badge/Case%20Study-7C3AED?style=flat-square&logo=readthedocs&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jawad-ul-hadi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://gitlab.com/JawadulHadi"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/19086262/jawad-ul-hadi"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0007-1317-4615"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
-  <a href="https://calendly.com/jawadulhadicc"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-006BFF?style=flat-square&logo=calendly&logoColor=white"></a>
-  <a href="mailto:jawadulhadicc@gmail.com">
+  <a href="https://juh-bukhari.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://juh-bukhari.vercel.app/resume.pdf"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-4B5563?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://juh-bukhari.vercel.app/case-study"><img alt="Case Study" src="https://img.shields.io/badge/Case%20Study-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jawad-ul-hadi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gitlab.com/JawadulHadi"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/19086262/jawad-ul-hadi"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0007-1317-4615"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="https://calendly.com/jawadulhadicc"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-006BFF?style=flat-square&logo=calendly&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jawadulhadicc@gmail.com&su=Hello%20Jawad&body=Hi%20Jawad%2C%0A%0AI%20came%20across%20your%20profile." target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
