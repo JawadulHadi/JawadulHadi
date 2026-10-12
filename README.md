@@ -138,7 +138,9 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
   <a href="https://stackoverflow.com/users/19086262/jawad-ul-hadi"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"></a>
   <a href="https://orcid.org/0009-0007-1317-4615"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
   <a href="https://calendly.com/jawadulhadicc"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-006BFF?style=flat-square&logo=calendly&logoColor=white"></a>
-  <a href="mailto:jawadulhadicc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jawadulhadicc@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <sub><i>Animations are plain SVG (CSS + SMIL), follow your GitHub light/dark theme, and stop when your system asks for reduced motion.</i></sub>
