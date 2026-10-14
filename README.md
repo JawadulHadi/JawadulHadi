@@ -60,12 +60,21 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 
 | Project | What it does | Link |
 | --- | --- | --- |
-| Omni.io | Multi-tenant RAG support engine with a three-tier resilience ladder, Postgres row-level-security isolation, an embeddable widget and an MCP server. | [Source](https://github.com/Qeloma/omni-io) |
-| Verdict | Tamper-evident decision engine that issues hash-chained, signed reasoning receipts for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/) |
-| Lens Studio | Summarise, extract and compare across PDFs, DOCX and images on Gemini, with deterministic fallbacks. | [Live ↗](https://qelomalens.vercel.app/) |
-| Voice Studio | Real-time voice analyst on the Gemini Live API that answers from your own documents. | [Live ↗](https://qeloma-voice.vercel.app/) |
-| Shift | Semantic diffing for contracts and configs that ranks changes by materiality and explains business impact. | [Live ↗](https://qeloma-shift.vercel.app/) |
-| Scanwise | Turns scans, PDFs and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Live](https://scanwise-io.vercel.app) |
+| Omni.io | Multi-tenant RAG support engine with a three-tier resilience ladder, Postgres row-level-security isolation, an embeddable widget and an MCP server. | Private repo |
+| TalntFlow AI | Lightweight ATS with a Kanban pipeline, STAR scorecards, hiring analytics and an approval-based recruiting agent on Claude with a rules fallback. | [Live ↗](https://talntflow-ai.vercel.app) · [Source](https://github.com/JawadulHadi/talnt-flow-ai) |
+| Scanwise | Turns scans, PDFs and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Live ↗](https://scanwise-io.vercel.app) · [Source](https://github.com/JawadulHadi/scanwise) |
+| Catchbox | Human-in-the-loop safety net for web scrapers: failed scrapes land in an inbox, a person fixes them, and only approved records count as data. | [Live ↗](https://catch-box.vercel.app) · [Source](https://github.com/JawadulHadi/catch-box) |
+| Scrapefix | The first build of the scraper-triage dashboard: fix queue, record review and a personal ingest key for any scraper. | [Source](https://github.com/JawadulHadi/scrapio) |
+| Taskmaster Agent | Hackathon entry: an event-driven HR operations agent on Genkit and Gemini over Pub/Sub, with a manager-approval pause when it finds a policy violation. | [Source](https://github.com/JawadulHadi/taskmaster-agent) |
+| GitHub Glow-Up | Workspace for repository documentation: README drafts, code reports that separate verified facts from AI interpretation, and publishing to GitHub. | [Live ↗](https://repo-glow-io.lovable.app) · [Source](https://github.com/JawadulHadi/git-glow) |
+| Verdict | Tamper-evident decision engine that issues hash-chained, signed reasoning receipts for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/) · [Source](https://github.com/Qeloma/qeloma-verdict) |
+| Lens Studio | Summarise, extract and compare across PDFs, DOCX and images on Gemini, with deterministic fallbacks. | [Live ↗](https://qelomalens.vercel.app/) · [Source](https://github.com/Qeloma/qeloma_lens_studio) |
+| Voice Studio | Real-time voice analyst on the Gemini Live API that answers from your own documents. | [Live ↗](https://qeloma-voice.vercel.app/) · [Source](https://github.com/Qeloma/qeloma_voice_studio) |
+| Shift | Semantic diffing for contracts and configs that ranks changes by materiality and explains business impact. | [Live ↗](https://qeloma-shift.vercel.app/) · [Source](https://github.com/Qeloma/qeloma_shift) |
+| Cover Studio | Browser-based LinkedIn banner designer with an AI copywriting assistant, safe-zone guides and high-resolution export. | [Live ↗](https://cover-studiio.vercel.app/) · [Source](https://github.com/Qeloma/qeloma-cover-studio) |
+| Qeloma Studio | In-browser photo and video editor on WebGPU, WebGL2 and WebAssembly, with local ONNX background removal. | [Source](https://github.com/Qeloma/Qeloma-Studio) |
+| Qeloma Recruit | Angular ATS sandbox on Gemini: JD generator, STAR interview guides, scorecards and a five-stage pipeline. | [Source](https://github.com/Qeloma/qeloma-recruitment-sandbox) |
+| Extension suite | Ten single-purpose Manifest V3 browser extensions built with WXT, local-first. | [Source](https://github.com/Qeloma/qeloma-extension-suite) |
 
 ### Stack
 
