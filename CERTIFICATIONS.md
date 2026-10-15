@@ -1,6 +1,17 @@
 # Verified credentials
 
 **74 verified certifications** across cloud platforms, AI/ML, backend engineering, and enterprise systems.
+```markdown
+LinkedIn Learning  ███████████████████████  23
+Google Cloud       █████████████████████    21
+IBM                ███████████████          15
+Anthropic          ███████                   7
+Microsoft          ██████                    6
+Coursera           █                         1
+Udemy              █                         1
+                  ─┴─────┴─────┴─────┴─────┴─
+                   0     5    10    15    20
+```
 
 ```mermaid
 xychart-beta
