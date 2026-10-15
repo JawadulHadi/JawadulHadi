@@ -127,14 +127,15 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 
 ### Credentials
 
-**74 Verified Credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6 · 5 others → [full list](https://juh-bukhari.vercel.app/credentials) · [in this repo](./CERTIFICATIONS.md)
+**74 Verified Credentials** · LinkedIn Learning 23 · Google Cloud Skills Boost 20 · IBM 14 · Anthropic 7 · Microsoft Learning 6  → [credentials](https://juh-bukhari.vercel.app/credentials) · [Certifications](./CERTIFICATIONS.md)
 
-| Credential | Issuer | Completed |
-| --- | --- | --- |
-| [Claude Code in Action](https://academy.claude.com/verify/ff1b2c578e9794408a0ba9c5beedc928) | Anthropic | Aug 2026 |
-| [Containers & Kubernetes Essentials](https://www.credly.com/badges/13300660-220e-4a01-ad7e-c4be671babf4) | IBM | Sep 2026 |
-| [Gen AI: Beyond the Chatbot](https://www.skills.google/public_profiles/e7e2ac08-758d-47f5-af65-589153c6b873/badges/26965991) | Google | Aug 2026 |
-| [Introduction to generative AI and agents](https://learn.microsoft.com/api/achievements/share/en-us/JawadUlHadi-0198/FEGYP6TX?sharingId=AFF773B6C8D61F92) | Microsoft Learning | Sep 2026 |
+```mermaid
+xychart-beta
+    title "Verified certifications by issuer"
+    x-axis ["LinkedIn", "Google Cloud", "IBM", "Anthropic", "Microsoft", "Coursera", "Udemy"]
+    y-axis "Count" 0 --> 25
+    bar [23, 21, 15, 7, 6, 1, 1]
+```
 
 ### GitHub activity
 
