@@ -1,6 +1,7 @@
 # Verified credentials
 
 **74 verified certifications** across cloud platforms, AI/ML, backend engineering, and enterprise systems.
+
 ```markdown
 LinkedIn Learning  ███████████████████████  23
 Google Cloud       █████████████████████    21
@@ -12,16 +13,6 @@ Udemy              █                         1
                   ─┴─────┴─────┴─────┴─────┴─
                    0     5    10    15    20
 ```
-
-```mermaid
-xychart-beta
-    title "Verified certifications by issuer"
-    x-axis ["LinkedIn", "Google Cloud", "IBM", "Anthropic", "Microsoft", "Coursera", "Udemy"]
-    y-axis "Count" 0 --> 25
-    bar [23, 21, 15, 7, 6, 1, 1]
-```
----
----
 
 ## Anthropic
 
