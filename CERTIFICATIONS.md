@@ -2,21 +2,14 @@
 
 **74 verified certifications** across cloud platforms, AI/ML, backend engineering, and enterprise systems.
 
+```mermaid
+xychart-beta
+    title "Verified certifications by issuer"
+    x-axis ["LinkedIn", "Google Cloud", "IBM", "Anthropic", "Microsoft", "Coursera", "Udemy"]
+    y-axis "Count" 0 --> 25
+    bar [23, 21, 15, 7, 6, 1, 1]
+```
 ---
-
-## Quick Navigation
-
-| Issuer | Count | Focus areas |
-| ------ | ----: | ----------- |
-| [Anthropic](#anthropic) | 7 | Claude, agent skills, platform fundamentals |
-| [Google Cloud Skills Boost](#google-cloud-skills-boost) | 21 | Generative AI, agents, cloud governance |
-| [Microsoft Learning](#microsoft-learning) | 6 | Azure Well-Architected, AI concepts |
-| [IBM](#ibm) | 15 | AI, cloud, data, containers, cybersecurity |
-| [LinkedIn Learning](#linkedin-learning) | 23 | AI engineering, agentic architecture, LLM ops |
-| [Coursera](#coursera) | 1 | Generative AI fundamentals |
-| [Udemy](#udemy) | 1 | Django development |
-| **Total** | **74** | |
-
 ---
 
 ## Anthropic
