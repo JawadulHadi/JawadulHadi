@@ -621,8 +621,9 @@ All certifications listed are:
 These certifications represent continuous professional development across enterprise backend systems, AI/LLM integration patterns, cloud-native architecture, and full-stack capabilities. For employment verification or detailed references, please reach out via the channels below.
 
 ---
+<div align="center">
 
-## Find me
+## Let's build something resilient together
 
 <p>
   <a href="https://juh-bukhari.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white"></a>
@@ -636,4 +637,6 @@ These certifications represent continuous professional development across enterp
   <a href="mailto:jawadulhadicc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<sub>Last updated: 10 Oct 2026 revision.</sub>
+</div>
+
+<sub>Last updated: 12- 2026 revision.</sub>
