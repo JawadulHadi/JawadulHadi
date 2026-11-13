@@ -66,11 +66,11 @@ Personal builds, public and verifiable. Client systems are under NDA, so they ap
 
 | Project | What it does | Link |
 | --- | --- | --- |
-| Omni.io | Multi-tenant RAG support engine with a three-tier resilience ladder, Postgres row-level security isolation, an embeddable widget and an MCP server. | Private repo |
-| TalntFlow AI | Lightweight ATS with a Kanban pipeline, STAR scorecards, hiring analytics, and an approval-based recruiting agent on Claude with a rules fallback. | [Live ↗](https://talntflow-ai.vercel.app) · [Source](https://github.com/JawadulHadi/talnt-flow-ai) |
+| Omni.io | Multi-tenant RAG support engine with a three-tier resilience ladder, Postgres row-level security isolation, an embeddable widget, and an MCP server. |[Live ↗](https://omniio.onrender.com) · [Source](https://github.com/JawadulHadi/omni-io) |
+| TalntFlow AI | Lightweight ATS with a Kanban pipeline, STAR scorecards, hiring analytics, and an approval-based recruiting agent on Claude with a rules fallback. | [Live ↗](https://talntflow-ai.vercel.app) · [Source](https://github.com/JawadulHadi/omni) |
 | Scanwise | Turns scans, PDFs, and Office files into one cited summary and a source-grounded chat, with on-device OCR. | [Live ↗](https://scanwise-io.vercel.app) · [Source](https://github.com/JawadulHadi/scanwise) |
 | Catchbox | Human-in-the-loop safety net for web scrapers: failed scrapes land in an inbox, a person fixes them, and only approved records count as data. | [Live ↗](https://catch-box.vercel.app) · [Source](https://github.com/JawadulHadi/catch-box) |
-| Scrapefix | The first build of the scraper-triage dashboard: fix queue, record review, and a personal ingest key for any scraper. | [Source](https://github.com/JawadulHadi/scrapio) |
+| Scrapefix | The first build of the scraper-triage dashboard: fix queue, record review, and a personal ingest key for any scraper. | [Live ↗](https://scrapio.lovable.app) · [Source](https://github.com/JawadulHadi/scrapio) |
 | Taskmaster Agent | Hackathon entry: an event-driven HR operations agent on Genkit and Gemini over Pub/Sub, with a manager-approval pause when it finds a policy violation. | [Source](https://github.com/JawadulHadi/taskmaster-agent) |
 | GitHub Glow-Up | Workspace for repository documentation: README drafts, code reports that separate verified facts from AI interpretation, and publishing to GitHub. | [Live ↗](https://repo-glow-io.lovable.app) · [Source](https://github.com/JawadulHadi/git-glow) |
 | Verdict | Tamper-evident decision engine that issues hash-chained, signed reasoning receipts for EU AI Act record-keeping. | [Live ↗](https://qeloma-verdict.vercel.app/) · [Source](https://github.com/Qeloma/qeloma-verdict) |
